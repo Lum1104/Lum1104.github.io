@@ -115,6 +115,8 @@ Zebang Cheng, **Yuxiang Lin**, Zhaoru Chen, Xiang Li, Shuyi Mao, Fan Zhang, Daij
    -->
 # 🏅 Selected Awards
 - *2020* &ensp; Second Prize of SZTU Freshman Scholarship (6000 CNY)
-- *2022* &ensp; China Undergraduate Mathematical Contest in Modeling, National Second Prize (top 2%), 2022
+- *2022* &ensp; China Undergraduate Mathematical Contest in Modeling, National Second Prize (top 2%)
 - *2023* &ensp; Dahua Outstanding Scholarship (4000 CNY)
 - *2023* &ensp; OpenMMLab MMSTAR I
+- *2024* &ensp; First Prize of Research and Innovation Award (3000 CNY)
+- *2024* &ensp; Star of Craftsmanship (3000 CNY)
