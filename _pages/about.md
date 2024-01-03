@@ -68,51 +68,13 @@ Zebang Cheng, **Yuxiang Lin**, Zhaoru Chen, Xiang Li, Shuyi Mao, Fan Zhang, Daij
 </div>
 </div>
 
-<!-- # 👨‍💻 Experience
-- *2023.04 - now* &ensp; Research Intern, [Tencent YouTu Lab](https://open.youtu.qq.com/), Shenzhen, China
-- *2022.07 - 2023.01* &ensp; Research Intern, [Zhejiang Lab](https://en.zhejianglab.com/), Hangzhou, China
-- *2021.03 - 2021.08* &ensp; Research Assistant, [SIAT](https://english.siat.ac.cn/), Shenzhen, China
-- *2019.08 - 2020.01* &ensp; Entrepreneurial Intern, [XbotPark](http://www.xbotpark.com/?lang=en), Dongguan, China
-<div class='exp-box'> <div class='exp-box-image'><div><img src='images/logo_YouTu.png' alt="sym" width="100%"></div></div>
-<div class='exp-box-text' markdown="1">
+# 👨‍💻 Experience
+- *2024.01 - 2024.01* &ensp; Teaching Assistant, [InternLM](https://github.com/InternLM/tutorial/tree/main)
+- *2023.10 - 2024.01* &ensp; Research Intern, [University of Central Florida (UCF)](https://scholar.google.com/citations?user=TuEwcZ0AAAAJ&hl=en&oi=ao)
+- *2023.06 - 2023.07* &ensp; Teaching Assistant, [OpenMMLab](https://github.com/open-mmlab/OpenMMLabCourse)
+- *2023.02 - 2023.07* &ensp; Visiting Student, [Shenzhen Institute of Advanced Technology](https://english.siat.ac.cn/)
 
-[Tencent YouTu Lab](https://open.youtu.qq.com/), Shenzhen, China
 
-**Research Intern** @ FuXi Research Center
-
-*2023.04 - now*
-
-</div>
-</div>
-
----
-
-<div class='exp-box'><div class='exp-box-image'><div><img src='images/logo_ZJLab.png' alt="sym" width="100%"></div></div>
-<div class='exp-box-text' markdown="1">
-
-[Zhejiang Lab](https://en.zhejianglab.com/), Hangzhou, China
-
-**Research Intern** @ Research Institute of Intelligent Computing
-
-*2022.07 - 2023.01*
-
-</div>
-</div>
-
----
-
-<div class='exp-box'><div class='exp-box-image'><div><img src='images/logo_SIAT_CAS.png' alt="sym" width="100%"></div></div>
-<div class='exp-box-text' markdown="1">
-
-[SIAT, CAS](https://english.siat.ac.cn/), Shenzhen, China
-
-**Research Assistant** @ CV2R-Lab
-
-*2021.03 - 2021.08*
-
-</div>
-</div>
-   -->
 # 🏅 Selected Awards
 - *2020* &ensp; Second Prize of SZTU Freshman Scholarship (6000 CNY)
 - *2022* &ensp; China Undergraduate Mathematical Contest in Modeling, National Second Prize (top 2%)
