@@ -17,11 +17,25 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a fourth-year undergraduate student at [Shenzhen Technology University](https://english.sztu.edu.cn/) <img src='images/logo_SZTU.png' style='width: 1.1em;'> under supervision from Prof. [Xiaojiang Peng](https://scholar.google.com/citations?user=7oRD67kAAAAJ&hl=en&oi=ao), and previously as a visiting student doing my research at [Shenzhen Institute of Advanced Technology (SIAT)](https://english.siat.ac.cn/) <img src='images/logo_SIAT.webp' style='width: 1.1em;'>, [Chinese Academy of Sciences (CAS)](https://english.cas.cn/), and a research intern with Prof. [Chen Chen](https://scholar.google.com/citations?user=TuEwcZ0AAAAJ&hl=en&oi=ao) at the University of Central Florida. 
+I am an undergraduate student at [Shenzhen Technology University](https://english.sztu.edu.cn/) <img src='images/logo_SZTU.png' style='width: 1.1em;'> under supervision from Prof. [Xiaojiang Peng](https://scholar.google.com/citations?user=7oRD67kAAAAJ&hl=en&oi=ao).
 
-My research interest mainly includes the foundation model in CV, LLM with CV, and self-supervised learning.
+I feel fortunate to have had the opportunity to join [Shenzhen Institute of Advanced Technology (SIAT), CAS](https://english.siat.ac.cn/) <img src='images/logo_SIAT.webp' style='width: 1.1em;'> as a visiting student in 2023. Additionally, I have explored the field of computer vision with Prof. [Chen Chen](https://scholar.google.com/citations?user=TuEwcZ0AAAAJ&hl=en&oi=ao) at UCF remotely. In addition to my studies, I interned with the [Baidu Inc](https://www.baidu.com/) (Science Search Strategy group), gaining valuable industry experience in representation learning and big data.
 
-> 📢📢📢 <font color=red>I am looking for an M.Phil/Ph.D./Internship position.</font> If you would like to discuss potential opportunities or learn more about my qualifications, please feel free to [contact me](mailto:lin.yuxiang.contact@gmail.com). 😊
+My research interest mainly includes:
+- Foundation model
+- LLM with CV
+- Representation Learning
+- Self-supervised learning
+
+> 📢📢📢 <font color=red>I am looking for an M.Phil/Ph.D. position.</font> If you would like to discuss potential opportunities or learn more about my qualifications, please feel free to [contact me](mailto:lin.yuxiang.contact@gmail.com). 😊
+
+
+# 👨‍💻 Experience
+- *2024.01 - now* &ensp;&ensp;&ensp;&ensp;&ensp; Research Intern, [Baidu Inc](https://www.baidu.com/)
+- *2024.01 - 2024.01* &ensp; Teaching Assistant, [InternLM](https://github.com/InternLM/tutorial/tree/main)
+- *2023.10 - 2024.01* &ensp; Research Intern, [University of Central Florida (UCF)](https://scholar.google.com/citations?user=TuEwcZ0AAAAJ&hl=en&oi=ao)
+- *2023.06 - 2023.07* &ensp; Teaching Assistant, [OpenMMLab](https://github.com/open-mmlab/OpenMMLabCourse)
+- *2023.02 - 2023.07* &ensp; Visiting Student, [Shenzhen Institute of Advanced Technology](https://english.siat.ac.cn/)
 
 
 # 🔥 News
@@ -67,12 +81,6 @@ Zebang Cheng, **Yuxiang Lin**, Zhaoru Chen, Xiang Li, Shuyi Mao, Fan Zhang, Daij
 
 </div>
 </div>
-
-# 👨‍💻 Experience
-- *2024.01 - 2024.01* &ensp; Teaching Assistant, [InternLM](https://github.com/InternLM/tutorial/tree/main)
-- *2023.10 - 2024.01* &ensp; Research Intern, [University of Central Florida (UCF)](https://scholar.google.com/citations?user=TuEwcZ0AAAAJ&hl=en&oi=ao)
-- *2023.06 - 2023.07* &ensp; Teaching Assistant, [OpenMMLab](https://github.com/open-mmlab/OpenMMLabCourse)
-- *2023.02 - 2023.07* &ensp; Visiting Student, [Shenzhen Institute of Advanced Technology](https://english.siat.ac.cn/)
 
 
 # 🏅 Selected Awards
