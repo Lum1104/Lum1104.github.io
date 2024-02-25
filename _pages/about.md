@@ -58,10 +58,10 @@ My research interest mainly includes:
 
 Zebang Cheng, **Yuxiang Lin**, Zhaoru Chen, Xiang Li, Shuyi Mao, Fan Zhang, Daijun Ding, Bowen Zhang, Xiaojiang Peng
 
-**<font color=red>ACMMM 2023</font>** \| [[Paper]](../resources/acmmm_grand_challenge.pdf)
+**<font color=red>ACMMM 2023</font>** \| [[Paper]](../resources/acmmm_grand_challenge.pdf) [[Slides]](../resources/ExpMAE.pdf)
 - We propose expMAE (combined with MAE and VideoMAE) to build an impressive emotion recognition classifier.
 - We utilize multi-modal foundation model such as CLIP, MacBERT, and HuBERT to boost the ability of visual features from expMAE.
-- We use the semi-supervised method of pseudo-labeling to solve the skewed distribution of the training set and finally achieve rank $2^{th}$ among all the participants.
+- We use the semi-supervised method of pseudo-labeling to solve the skewed distribution of the training set and finally achieve rank 2th among all the participants.
 
 </div>
 </div>
