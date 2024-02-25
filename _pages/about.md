@@ -23,7 +23,7 @@ I feel fortunate to have had the opportunity to join [Shenzhen Institute of Adva
 
 My research interest mainly includes:
 - Foundation model
-- LLM with CV
+- Multi-modal LLM
 - Representation Learning
 - Self-supervised learning
 
@@ -35,7 +35,7 @@ My research interest mainly includes:
 - *2024.01 - 2024.01* &ensp; Teaching Assistant, [InternLM](https://github.com/InternLM/tutorial/tree/main)
 - *2023.10 - 2024.01* &ensp; Research Intern, [University of Central Florida (UCF)](https://scholar.google.com/citations?user=TuEwcZ0AAAAJ&hl=en&oi=ao)
 - *2023.06 - 2023.07* &ensp; Teaching Assistant, [OpenMMLab](https://github.com/open-mmlab/OpenMMLabCourse)
-- *2023.02 - 2023.07* &ensp; Visiting Student, [Shenzhen Institute of Advanced Technology](https://english.siat.ac.cn/)
+- *2023.02 - 2023.07* &ensp; Visiting Student, [Shenzhen Institute of Advanced Technology, CAS](https://english.siat.ac.cn/)
 
 
 # 🔥 News
@@ -51,17 +51,17 @@ My research interest mainly includes:
 
 # 📝 Publications
 ## 📌 Pinned
-<div class='paper-box-top'><div class='paper-box-top-image'><div><div class="badge">ACMMM 2023 (Grand Challenge)</div><img src='images/grand_challenge.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-top'><div class='paper-box-top-image'><div><div class="badge">ACMMM 2023</div><img src='images/grand_challenge.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-top-text' markdown="1">
 
 [Semi-Supervised Multimodal Emotion Recognition with Expression MAE](../resources/acmmm_grand_challenge.pdf)
 
 Zebang Cheng, **Yuxiang Lin**, Zhaoru Chen, Xiang Li, Shuyi Mao, Fan Zhang, Daijun Ding, Bowen Zhang, Xiaojiang Peng
 
-**<font color=red>ACMMM 2023 (Grand Challenge)</font>** \| [[Paper]](../resources/acmmm_grand_challenge.pdf)
+**<font color=red>ACMMM 2023</font>** \| [[Paper]](../resources/acmmm_grand_challenge.pdf)
 - We propose expMAE (combined with MAE and VideoMAE) to build an impressive emotion recognition classifier.
-- We utilize multimodal large model techniques such as CLIP, MacBERT, and HuBERT to boost the ability of visual features from expMAE.
-- We use the semi-supervised method of pseudo-labeling to solve the skewed distribution of the training set and finally achieve rank 2 among all the participants.
+- We utilize multi-modal foundation model such as CLIP, MacBERT, and HuBERT to boost the ability of visual features from expMAE.
+- We use the semi-supervised method of pseudo-labeling to solve the skewed distribution of the training set and finally achieve rank $2^{th}$ among all the participants.
 
 </div>
 </div>
