@@ -8,8 +8,8 @@
 # Site Settings
 title                    : "Yuxiang Lin"
 description              : "Undergraduate @ SZTU. <br/>
-                            Visiting student @ SIAT. <br/>
-                            Focusing on CV, multimodal emotion recognition.
+                            # Visiting student @ SIAT. <br/>
+                            Focusing on LLM, Multi-modal.
                             "
 repository               : "Lum1104/Lum1104.github.io"
 google_scholar_stats_use_cdn : true
