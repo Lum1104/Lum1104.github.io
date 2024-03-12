@@ -19,7 +19,7 @@ redirect_from:
 
 I am an undergraduate student at [Shenzhen Technology University](https://english.sztu.edu.cn/) <img src='images/logo_SZTU.png' style='width: 1.1em;'> under supervision from Prof. [Xiaojiang Peng](https://scholar.google.com/citations?user=7oRD67kAAAAJ&hl=en&oi=ao).
 
-I feel fortunate to have had the opportunity to join [Shenzhen Institute of Advanced Technology (SIAT), CAS](https://english.siat.ac.cn/) <img src='images/logo_SIAT.webp' style='width: 1.1em;'> as a visiting student in 2023. Additionally, I have explored the field of computer vision with Prof. [Chen Chen](https://scholar.google.com/citations?user=TuEwcZ0AAAAJ&hl=en&oi=ao) at UCF remotely. In addition to my studies, I interned with the [Baidu Inc](https://www.baidu.com/) (Science Search Strategy group), gaining valuable industry experience in representation learning and big data.
+I feel fortunate to have had the opportunity to join [Shenzhen Institute of Advanced Technology (SIAT), CAS](https://english.siat.ac.cn/) <img src='images/logo_SIAT.webp' style='width: 1.1em;'> as a visiting student in 2023. Additionally, I have explored the field of computer vision with Prof. [Chen Chen](https://scholar.google.com/citations?user=TuEwcZ0AAAAJ&hl=en&oi=ao) at UCF remotely. In addition to my studies, I interned with the [Baidu Inc](https://www.baidu.com/) (Group of Multimodal Retrieval), gaining valuable industry experience in representation learning and big data.
 
 My research interest mainly includes:
 - Foundation model
