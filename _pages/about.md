@@ -39,7 +39,7 @@ My research interest mainly includes:
 
 
 # 🔥 News
-- *2024.03*: One paper is accepted by SemEval 2024, NAACL.
+- *2024.03*: One paper about Conversational Emotion-Cause Pair Analysis with LLM is accepted by SemEval 2024, NAACL.
 - *2024.01*: I was awarded the First Prize of Research and Innovation Award (3000 CNY) and Star of Craftsmanship (3000 CNY).
 - *2023.08*: My instance segmentation tutorial has been featured in [MMYOLO v0.6.0 highlight](https://github.com/open-mmlab/mmyolo/releases/tag/v0.6.0)! Check out the tutorial [here](https://github.com/open-mmlab/mmyolo/blob/main/docs/en/get_started/15_minutes_instance_segmentation.md) to master the essentials of instance segmentation.
 - *2023.07*: One paper on multimodal emotion recognition is accepted by ACM MM! 🎉
