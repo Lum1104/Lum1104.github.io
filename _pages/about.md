@@ -51,6 +51,7 @@ My research interest mainly includes:
 
 
 # 📝 Publications
+Working in Progress: CVIU (1: Under Review), SemEval 2024, NAACL (1: Accepted)
 ## 📌 Pinned
 <div class='paper-box-top'><div class='paper-box-top-image'><div><div class="badge">ACMMM 2023</div><img src='images/grand_challenge.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-top-text' markdown="1">
