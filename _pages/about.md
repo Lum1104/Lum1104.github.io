@@ -27,7 +27,7 @@ My research interest mainly includes:
 - Representation Learning
 - Self-supervised learning
 
-> 📢📢📢 <font color=red>I am looking for an M.Phil/Ph.D. position.</font> If you would like to discuss potential opportunities or learn more about my qualifications, please feel free to [contact me](mailto:lin.yuxiang.contact@gmail.com). 😊
+> 📢📢📢 <font color=red>I am looking for an M.Phil/Ph.D. position.</font> Check out my [CV](../resources/Yuxiang_CV.pdf), and if you would like to discuss potential opportunities or learn more about my qualifications, please feel free to [contact me](mailto:lin.yuxiang.contact@gmail.com). 😊
 
 
 # 👨‍💻 Experience
