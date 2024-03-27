@@ -51,8 +51,25 @@ My research interest mainly includes:
 
 
 # 📝 Publications
-Working in Progress: CVIU (1: Under Review), SemEval 2024, NAACL (1: Accepted)
+Working in Progress: CVIU (1: Under Review); SemEval 2024, NAACL (1: Accepted);
 ## 📌 Pinned
+<div class='paper-box-top'><div class='paper-box-top-image'><div><div class="badge">ArXiv Preprint</div><img src='resources/gas.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-top-text' markdown="1">
+
+[Invisible Gas Detection: An RGB-Thermal Cross Attention Network and A New Benchmark](https://arxiv.org/pdf/2403.17712)
+
+Jue Wang*, **Yuxiang Lin***, Qi Zhao, Dong Luo, Shuaibao Chen, Wei Chen, Xiaojiang Peng (* denotes equal contribution)
+
+**<font color=red>ArXiv</font>** \| [[Paper]](https://arxiv.org/pdf/2403.17712)
+- We design the RGB-Thermal Cross Attention Network for invisible gas detection, by effectively integrating texture information from RGB images and gas information from thermal images.
+- We propose the RGB-assisted Cross Attention Module and the Global Textual Attention Module for cross modality feature fusion and diverse contextual information extraction.
+- We introduce Gas-DB, the first comprehensive open-source gas detection database, including approximately 1.3K well-annotated RGB-thermal images for gas detection algorithms.
+
+</div>
+</div>
+
+---
+
 <div class='paper-box-top'><div class='paper-box-top-image'><div><div class="badge">ACMMM 2023</div><img src='images/grand_challenge.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-top-text' markdown="1">
 
