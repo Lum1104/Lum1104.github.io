@@ -58,7 +58,7 @@ Working in Progress: CVIU (1: Under Review); SemEval 2024, NAACL (1: Accepted);
 
 [Invisible Gas Detection: An RGB-Thermal Cross Attention Network and A New Benchmark](https://arxiv.org/pdf/2403.17712)
 
-Jue Wang*, **Yuxiang Lin***, Qi Zhao, Dong Luo, Shuaibao Chen, Wei Chen, Xiaojiang Peng (* denotes equal contribution)
+Jue Wang\*, **Yuxiang Lin\***, Qi Zhao, Dong Luo, Shuaibao Chen, Wei Chen, Xiaojiang Peng (\* denotes equal contribution)
 
 **<font color=red>ArXiv</font>** \| [[Paper]](https://arxiv.org/pdf/2403.17712)
 - We design the RGB-Thermal Cross Attention Network for invisible gas detection, by effectively integrating texture information from RGB images and gas information from thermal images.
