@@ -17,21 +17,20 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am an undergraduate student at [Shenzhen Technology University](https://english.sztu.edu.cn/) <img src='images/logo_SZTU.png' style='width: 1.1em;'> under supervision from Prof. [Xiaojiang Peng](https://scholar.google.com/citations?user=7oRD67kAAAAJ&hl=en&oi=ao).
+I am an undergraduate student at [Shenzhen Technology University](https://english.sztu.edu.cn/) <img src='images/logo_SZTU.png' style='width: 1.1em;'> under supervision from Prof. [Xiaojiang Peng](https://scholar.google.com/citations?user=7oRD67kAAAAJ&hl=en&oi=ao). I feel fortunate to have had the opportunity to join [Shenzhen Institute of Advanced Technology (SIAT), CAS](https://english.siat.ac.cn/) <img src='images/logo_SIAT.webp' style='width: 1.1em;'> as a visiting student in 2023. Additionally, I have explored the field of computer vision with Prof. [Chen Chen](https://scholar.google.com/citations?user=TuEwcZ0AAAAJ&hl=en&oi=ao) at UCF <img src='images/ucf.png' style='width: 1.1em;'> remotely.
 
-I feel fortunate to have had the opportunity to join [Shenzhen Institute of Advanced Technology (SIAT), CAS](https://english.siat.ac.cn/) <img src='images/logo_SIAT.webp' style='width: 1.1em;'> as a visiting student in 2023. Additionally, I have explored the field of computer vision with Prof. [Chen Chen](https://scholar.google.com/citations?user=TuEwcZ0AAAAJ&hl=en&oi=ao) at UCF remotely. In addition to my studies, I interned with the [Baidu Inc](https://www.baidu.com/) (Group of Multimodal Retrieval), gaining valuable industry experience in representation learning and big data.
+Besides my academic studies, I interned with the [Baidu Inc](https://www.baidu.com/) (Group of Multimodal Retrieval), gaining valuable industry experience in representation learning and big data, and I also volunteered as a Teaching Assistant for an open-source tutorial on Large Language Models (LLM)/Computer Vision hosted by the [Shanghai AI Laboratory](https://github.com/InternLM/InternLM) <img src='images/ta.jpeg' style='width: 1.1em;'>.
 
 My research interest mainly includes:
 - Foundation model
 - Multi-modal LLM
-- Representation Learning
 - Self-supervised learning
 
-> 📢📢📢 <font color=red>I am looking for an M.Phil/Ph.D. position.</font> Check out my [CV](../resources/Yuxiang_CV.pdf), and if you would like to discuss potential opportunities or learn more about my qualifications, please feel free to [contact me](mailto:lin.yuxiang.contact@gmail.com). 😊
+> 📢📢📢 <font color=red>I am looking for an M.Phil (happy to self-funded)/Ph.D. position.</font> Check out my [CV](../resources/Yuxiang_CV.pdf), and if you would like to discuss potential opportunities or learn more about my qualifications, please feel free to [contact me](mailto:lin.yuxiang.contact@gmail.com). 😊
 
 
 # 👨‍💻 Experience
-- *2024.01 - now* &ensp;&ensp;&ensp;&ensp;&ensp; Research Intern, [Baidu Inc](https://www.baidu.com/)
+- *2024.01 - 2024.04* &ensp; Research Intern, [Baidu Inc](https://www.baidu.com/)
 - *2024.01 - 2024.01* &ensp; Teaching Assistant, [InternLM](https://github.com/InternLM/tutorial/tree/main)
 - *2023.10 - 2024.01* &ensp; Research Intern, [University of Central Florida (UCF)](https://scholar.google.com/citations?user=TuEwcZ0AAAAJ&hl=en&oi=ao)
 - *2023.06 - 2023.07* &ensp; Teaching Assistant, [OpenMMLab](https://github.com/open-mmlab/OpenMMLabCourse)
