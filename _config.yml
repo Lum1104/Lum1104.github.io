@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Yuxiang Lin"
-description              : "Undergraduate @ SZTU. <br/>
+description              : "Undergrad <br/>
                             Focusing on LLM, Multi-modal.
                             "
 repository               : "Lum1104/Lum1104.github.io"
@@ -53,7 +53,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          :
+  twitter          : https://twitter.com/YuxiangLin_Lum
   vine             :
   weibo            :
   xing             :
