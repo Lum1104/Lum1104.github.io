@@ -22,11 +22,11 @@ I am an undergraduate student at [Shenzhen Technology University](https://englis
 Besides my academic studies, I interned with the [Baidu Inc](https://www.baidu.com/) <img src='images/baidu.jpeg' style='width: 1.1em;'> (Group of Multimodal Retrieval), gaining valuable industry experience in representation learning and big data, and I also volunteered as a Teaching Assistant for an open-source tutorial on Large Language Models (LLM)/Computer Vision hosted by the [Shanghai AI Laboratory](https://github.com/InternLM/InternLM) <img src='images/ta.jpeg' style='width: 1.1em;'>.
 
 My research interest mainly includes:
-- Foundation model
-- Multi-modal LLM
-- Self-supervised learning
+- **Foundation model**: Representation Learning, Post-Pretraining.
+- **Multi-modal LLM**: LLM Reasoning, LLM Application.
+- **Self-supervised learning**: Contrastive Learning.
 
-> 📢📢📢 <font color=red>I am looking for an M.Phil (happy to self-funded)/Ph.D. position.</font> Check out my [CV](../resources/Yuxiang_CV.pdf), and if you would like to discuss potential opportunities or learn more about my qualifications, please feel free to [contact me](mailto:lin.yuxiang.contact@gmail.com). 😊
+> 📢📢📢 <font color=red>I am looking for an **M.Phil (happy to be self-funded)/Ph.D.** position.</font> Check out my [CV](../resources/Yuxiang_CV.pdf), and if you would like to discuss potential opportunities or learn more about my qualifications, please feel free to [contact me](mailto:lin.yuxiang.contact@gmail.com). 😊
 
 
 # 👨‍💻 Experience
