@@ -26,7 +26,7 @@ My research interest mainly includes:
 - **Multi-modal LLM**: LLM Reasoning, LLM Application.
 - **Self-supervised learning**: Contrastive Learning.
 
-> 📢📢📢 <font color=red>I am looking for an **M.Phil (happy to be self-funded)/Ph.D.** position.</font> Check out my [CV](../resources/Yuxiang_CV.pdf), and if you would like to discuss potential opportunities or learn more about my qualifications, please feel free to [contact me](mailto:lin.yuxiang.contact@gmail.com). 😊
+> 📢📢📢 <font color=red>I am looking for an M.Phil (happy to be self-funded)/Ph.D. position.</font> Check out my [CV](../resources/Yuxiang_CV.pdf), and if you would like to discuss potential opportunities or learn more about my qualifications, please feel free to [contact me](mailto:lin.yuxiang.contact@gmail.com). 😊
 
 
 # 👨‍💻 Experience
