@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Yuxiang Lin <br/> 林钰翔"
+  name             : "Yuxiang Lin"
   avatar           : "images/profile.jpg"
   bio              : "SZTU"
   location         : "Shenzhen, China"
