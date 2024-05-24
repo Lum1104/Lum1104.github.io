@@ -7,9 +7,7 @@
 
 # Site Settings
 title                    : "Yuxiang Lin"
-description              : "Undergrad <br/>
-                            Focusing on LLM, Multi-modal.
-                            "
+description              : "MS@Gatech. <br/>Focusing on Multi-modal Learning."
 repository               : "Lum1104/Lum1104.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -25,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Yuxiang Lin"
   avatar           : "images/profile.jpg"
-  bio              : "SZTU"
+  bio              : "<center>ECE@Georgia Tech</center>"
   location         : "Shenzhen, China"
   employer         :
   pubmed           :
