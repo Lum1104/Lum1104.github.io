@@ -19,7 +19,7 @@ redirect_from:
 
 My name is Yuxiang Lin, pronounced as "You-shee-ahng Lin".
 
-I am an undergraduate student at [Shenzhen Technology University](https://english.sztu.edu.cn/) <img src='images/logo_SZTU.png' style='width: 1.1em;'> under supervision from Prof. [Xiaojiang Peng](https://scholar.google.com/citations?user=7oRD67kAAAAJ&hl=en&oi=ao). I feel fortunate to have had the opportunity to join [Shenzhen Institute of Advanced Technology (SIAT), CAS](https://english.siat.ac.cn/) <img src='images/logo_SIAT.webp' style='width: 1.1em;'> as a visiting student in 2023. Additionally, I have explored the field of computer vision with Prof. [Chen Chen](https://scholar.google.com/citations?user=TuEwcZ0AAAAJ&hl=en&oi=ao) at UCF <img src='images/ucf.png' style='width: 1.1em;'> remotely.
+I am currently an MS student at [Georgia Institute of Technology](https://www.gatech.edu/) <img src='images/gt_logo.png' style='width: 1.1em;'>. I received my B.S. degree from [Shenzhen Technology University](https://english.sztu.edu.cn/) <img src='images/logo_SZTU.png' style='width: 1.1em;'> under supervision from Prof. [Xiaojiang Peng](https://scholar.google.com/citations?user=7oRD67kAAAAJ&hl=en&oi=ao). I feel fortunate to have had the opportunity to join [Shenzhen Institute of Advanced Technology (SIAT), CAS](https://english.siat.ac.cn/) <img src='images/logo_SIAT.webp' style='width: 1.1em;'> as a visiting student in 2023. Additionally, I have explored the field of computer vision with Prof. [Chen Chen](https://scholar.google.com/citations?user=TuEwcZ0AAAAJ&hl=en&oi=ao) at UCF <img src='images/ucf.png' style='width: 1.1em;'> remotely.
 
 Besides my academic studies, I interned with the [Baidu Inc](https://www.baidu.com/) <img src='images/baidu.jpeg' style='width: 1.1em;'> (Group of Multimodal Retrieval), gaining valuable industry experience in representation learning and big data, and I also volunteered as a Teaching Assistant for an open-source tutorial on Large Language Models (LLM)/Computer Vision hosted by the [Shanghai AI Laboratory](https://github.com/InternLM/InternLM) <img src='images/ta.jpeg' style='width: 1.1em;'>.
 
@@ -28,7 +28,7 @@ My research interest mainly includes:
 - **Multi-modal LLM**: LLM Reasoning, LLM Application.
 - **Self-supervised learning**: Contrastive Learning.
 
-> 📢📢📢 <font color=red>I am searching for an M.Phil (happy to be self-funded)/Ph.D. position.</font> Check out my [CV](../resources/Yuxiang_CV.pdf), and [contact me](mailto:lin.yuxiang.contact@gmail.com) if you think I am a good fit. 😊
+> 📢📢📢 <font color=red>I am searching for an Ph.D. position.</font> Here is my [CV](../resources/Yuxiang_CV.pdf), [contact me](mailto:lin.yuxiang.contact@gmail.com) if you think I am a good fit. 😊
 
 
 # 👨‍💻 Experience
