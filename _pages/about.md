@@ -28,9 +28,6 @@ My research interest mainly includes:
 - **Multi-modal LLM**: LLM Reasoning, LLM Application.
 - **Self-supervised learning**: Contrastive Learning.
 
-> 📢📢📢 <font color=red>I am searching for an Ph.D. position.</font> Here is my [CV](../resources/Yuxiang_CV.pdf), [contact me](mailto:lin.yuxiang.contact@gmail.com) if you think I am a good fit. 😊
-
-
 # 👨‍💻 Experience
 - *2024.01 - 2024.04* &ensp; Research Intern, [Baidu Inc](https://www.baidu.com/)
 - *2024.01 - 2024.01* &ensp; Teaching Assistant, [InternLM](https://github.com/InternLM/tutorial/tree/main)
