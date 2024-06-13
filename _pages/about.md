@@ -49,8 +49,25 @@ My research interest mainly includes:
 
 
 # 📝 Publications
-Working in Progress: CVIU (1: Under Review); SemEval 2024, NAACL (1: Accepted);
+Working in Progress: CVIU (1: Under Review); NeurIPS (2: Under Review);
 ## 📌 Pinned
+<div class='paper-box-top'><div class='paper-box-top-image'><div><div class="badge">ArXiv Preprint</div><img src='resources/emcobench.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-top-text' markdown="1">
+
+[EmCoBench: An Extensive Benchmark for General Emotion Comprehension](../resources/emcobench_paper.pdf)
+
+**Yuxiang Lin**, Jue Wang, Haomin Liang, Zebang Cheng, Jun-Yan He, Zhi-Qi Cheng, Xiaojiang Peng, Alexander G. Hauptmann
+
+**<font color=red>ArXiv</font>** \| [[Paper]](../resources/emcobench_paper.pdf) [[Code]](https://github.com/Lum1104/EmCoBench)
+- We proposing the Emotion Comprehension task, which focuses on identifying emotional triggers rather than merely classifying emotions, crucial for building more empathetic systems;
+- We introducing the Coarse-to-Fine Self-Ask (CFSA) method, a novel VLLM-assisted data annotation technique;
+- We developing the EmCoBench dataset, which includes 78 fine-grained emotions and 1,655 emotion comprehension samples, with 50 multifacets complex samples;
+
+</div>
+</div>
+
+---
+
 <div class='paper-box-top'><div class='paper-box-top-image'><div><div class="badge">ArXiv Preprint</div><img src='resources/gas.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-top-text' markdown="1">
 
@@ -79,22 +96,6 @@ Zebang Cheng, **Yuxiang Lin**, Zhaoru Chen, Xiang Li, Shuyi Mao, Fan Zhang, Daij
 - We propose expMAE (combined with MAE and VideoMAE) to build an impressive emotion recognition classifier.
 - We utilize multi-modal foundation model such as CLIP, MacBERT, and HuBERT to boost the ability of visual features from expMAE.
 - We use the semi-supervised method of pseudo-labeling to solve the skewed distribution of the training set and finally achieve rank 2th among all the participants.
-
-</div>
-</div>
-
----
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">RCAR 2023</div><img src='images/uav.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Real-time UAV Localization and Tracking in Multi-Weather Conditions using Multispectral Image Analysis](../resources/rcar23-119.pdf)
-
-**Yuxiang Lin**, Xiaojiang Peng, Jiahe Yu, Wei Chen, Yan Wu, Hu Liu
-
-**<font color=red>RCAR 2023</font>** \| [[Paper]](../resources/rcar23-119.pdf) [[Slides]](../resources/rcar-slide.pdf)
-- We propose a novel method by using multispectral image analysis to solve the limitation of visual tracking methods on low-visibility at a single RGB image.
-- We have devised an approach for real-time tracking that integrates the strengths of both the YOLOv5 object detection algorithm and the KCF tracking algorithm while compensating for their respective weaknesses.
 
 </div>
 </div>
