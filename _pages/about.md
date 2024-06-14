@@ -17,18 +17,18 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-My name is Yuxiang Lin, pronounced as "You-shee-ahng Lin". I am currently an MS student at [Georgia Institute of Technology](https://www.gatech.edu/) <img src='images/gt_logo.jpeg' style='width: 1.1em;'>.
+My name is Yuxiang Lin, pronounced as "You-shee-ahng Lin". I am an MS student at [Georgia Institute of Technology](https://www.gatech.edu/) <img src='images/gt_logo.jpeg' style='width: 1.1em;'>. I earned my B.S. degree from [Shenzhen Technology University](https://english.sztu.edu.cn/) <img src='images/logo_SZTU.png' style='width: 1.1em;'> under supervision from Prof. [Xiaojiang Peng](https://scholar.google.com/citations?user=7oRD67kAAAAJ&hl=en&oi=ao). In 2023, I was a visiting student at the [Shenzhen Institute of Advanced Technology (SIAT), CAS](https://english.siat.ac.cn/) <img src='images/logo_SIAT.webp' style='width: 1.1em;'> and a research intern with Prof. [Chen Chen](https://scholar.google.com/citations?user=TuEwcZ0AAAAJ&hl=en&oi=ao) at UCF <img src='images/ucf.png' style='width: 1.1em;'> remotely. In 2024, I interned at [Baidu Inc](https://www.baidu.com/) <img src='images/baidu.jpeg' style='width: 1.1em;'>  in the Group of Multimodal Retrieval, gaining experience in representation learning and big data. 
 
-I received my B.S. degree from [Shenzhen Technology University](https://english.sztu.edu.cn/) <img src='images/logo_SZTU.png' style='width: 1.1em;'> under supervision from Prof. [Xiaojiang Peng](https://scholar.google.com/citations?user=7oRD67kAAAAJ&hl=en&oi=ao). I feel fortunate to have had the opportunity to join [Shenzhen Institute of Advanced Technology (SIAT), CAS](https://english.siat.ac.cn/) <img src='images/logo_SIAT.webp' style='width: 1.1em;'> as a visiting student in 2023. Additionally, I have explored the field of computer vision with Prof. [Chen Chen](https://scholar.google.com/citations?user=TuEwcZ0AAAAJ&hl=en&oi=ao) at UCF <img src='images/ucf.png' style='width: 1.1em;'> remotely.
-
-Besides my academic studies, I interned with the [Baidu Inc](https://www.baidu.com/) <img src='images/baidu.jpeg' style='width: 1.1em;'> (Group of Multimodal Retrieval), gaining valuable industry experience in representation learning and big data, and I also volunteered as a Teaching Assistant for an open-source tutorial on Large Language Models (LLM)/Computer Vision hosted by the [Shanghai AI Laboratory](https://github.com/InternLM/InternLM) <img src='images/ta.jpeg' style='width: 1.1em;'>.
+Additionally, I volunteered as a Teaching Assistant for a Large Language Models/Computer Vision tutorial hosted by the [Shanghai AI Laboratory](https://github.com/InternLM/InternLM) <img src='images/ta.jpeg' style='width: 1.1em;'>.
 
 My research interest mainly includes:
 - **Foundation model**: Representation Learning, Post-Pretraining.
 - **Multi-modal LLM**: LLM Reasoning, LLM Application.
 - **Self-supervised learning**: Contrastive Learning.
+- **AI4Science**: LLM with Medical Analysis.
 
 # 👨‍💻 Experience
+- *2022.10 - 2024.06* &ensp; Student Research Fellow, [MIPS-Lab](https://pengxj.github.io/)
 - *2024.01 - 2024.04* &ensp; Research Intern, [Baidu Inc](https://www.baidu.com/)
 - *2024.01 - 2024.01* &ensp; Teaching Assistant, [InternLM](https://github.com/InternLM/tutorial/tree/main)
 - *2023.10 - 2024.01* &ensp; Research Intern, [University of Central Florida (UCF)](https://scholar.google.com/citations?user=TuEwcZ0AAAAJ&hl=en&oi=ao)
@@ -37,6 +37,7 @@ My research interest mainly includes:
 
 
 # 🔥 News
+- *2024.06*: We propose a new task and benchmark about understanding emotional triggers. Checkout the [EmCoBench](https://github.com/Lum1104/EmCoBench/tree/main). 🔬
 - *2024.03*: One paper about Conversational Emotion-Cause Pair Analysis with LLM is accepted by SemEval 2024, NAACL.
 - *2024.01*: I was awarded the First Prize of Research and Innovation Award (3000 CNY) and Star of Craftsmanship (3000 CNY).
 - *2023.08*: My instance segmentation tutorial has been featured in [MMYOLO v0.6.0 highlight](https://github.com/open-mmlab/mmyolo/releases/tag/v0.6.0)! Check out the tutorial [here](https://github.com/open-mmlab/mmyolo/blob/main/docs/en/get_started/15_minutes_instance_segmentation.md) to master the essentials of instance segmentation.
