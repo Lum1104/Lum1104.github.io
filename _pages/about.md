@@ -36,10 +36,6 @@ My research interest mainly includes:
 - *2023.08*: My instance segmentation tutorial has been featured in [MMYOLO v0.6.0 highlight](https://github.com/open-mmlab/mmyolo/releases/tag/v0.6.0)! Check out the tutorial [here](https://github.com/open-mmlab/mmyolo/blob/main/docs/en/get_started/15_minutes_instance_segmentation.md) to master the essentials of instance segmentation.
 - *2023.07*: One paper on multimodal emotion recognition is accepted by ACM MM! 🎉
 - *2023.07*: We are the runner up in the Grand Challenge ([MER 2023](http://merchallenge.cn/)) of ACM MM! 🥈
-- *2023.05*: I was awarded a Dahua outstanding scholarship (4000 CNY)! 🏆
-- *2023.04*: One first-author paper is accepted by the IEEE International Conference on Real-time Computing and Robotics 2023! 🎉
-- *2023.02*: I join [SIAT, CAS](https://english.siat.ac.cn/) as a visiting student doing research! 🔬
-- *2022.05*: We won the second prize in the China Undergraduate Mathematical Contest after one year's preparation (top 2%). Thanks all my teammates! 🥈
 
 
 # 📝 Publications
@@ -69,7 +65,7 @@ Working in Progress: CVIU (1: Under Review); NeurIPS (2: Under Review);
 
 Jue Wang\*, **Yuxiang Lin\***, Qi Zhao, Dong Luo, Shuaibao Chen, Wei Chen, Xiaojiang Peng (\* denotes equal contribution)
 
-**<font color=red>ArXiv</font>** \| [[Paper]](https://arxiv.org/pdf/2403.17712)
+**<font color=red>ArXiv</font>** \| [[Paper]](https://arxiv.org/pdf/2403.17712) [[Code]](https://github.com/logic112358/RT-CAN)
 - We design the RGB-Thermal Cross Attention Network for invisible gas detection, by effectively integrating texture information from RGB images and gas information from thermal images.
 - We propose the RGB-assisted Cross Attention Module and the Global Textual Attention Module for cross modality feature fusion and diverse contextual information extraction.
 - We introduce Gas-DB, the first comprehensive open-source gas detection database, including approximately 1.3K well-annotated RGB-thermal images for gas detection algorithms.
