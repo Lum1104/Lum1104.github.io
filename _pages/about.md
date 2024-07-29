@@ -24,12 +24,12 @@ Additionally, I volunteered as a Teaching Assistant for a Large Language Models/
 You can find me at [yuxiang.lin@gatech.edu](yuxiang.lin@gatech.edu) or [lin.yuxiang.contact@gmail.com](lin.yuxiang.contact@gmail.com).
 
 My research interest mainly includes:
-- **Foundation model**: Representation Learning, Post-Pretraining.
+- **Foundation model**: Representation Learning, Post-Pretraining, Contrastive Learning.
 - **Multi-modal LLM**: LLM Reasoning, LLM Application.
-- **Self-supervised learning**: Contrastive Learning.
 - **AI4Science**: LLM with Medical Analysis.
 
 # 🔥 News
+- *2024.07*: One co-first author paper about invisible gas detection is accepted by CVIU (JCR Q1, CCF rank B). 🎉
 - *2024.06*: We propose a new task and benchmark about understanding emotional triggers. Checkout the [EmCoBench](https://github.com/Lum1104/EmCoBench/tree/main). 🔬
 - *2024.03*: One paper about Conversational Emotion-Cause Pair Analysis with LLM is accepted by SemEval 2024, NAACL.
 - *2024.01*: I was awarded the First Prize of Research and Innovation Award (3000 CNY) and Star of Craftsmanship (3000 CNY).
