@@ -30,7 +30,6 @@ My research interest mainly includes:
 
 # 🔥 News
 - *2024.07*: One co-first author paper about invisible gas detection is accepted by CVIU (JCR Q1, CCF rank B). 🎉
-- *2024.06*: We propose a new task and benchmark about understanding emotional triggers. Checkout the [EmCoBench](https://github.com/Lum1104/EmCoBench/tree/main). 🔬
 - *2024.03*: One paper about Conversational Emotion-Cause Pair Analysis with LLM is accepted by SemEval 2024, NAACL.
 - *2024.01*: I was awarded the First Prize of Research and Innovation Award (3000 CNY) and Star of Craftsmanship (3000 CNY).
 - *2023.08*: My instance segmentation tutorial has been featured in [MMYOLO v0.6.0 highlight](https://github.com/open-mmlab/mmyolo/releases/tag/v0.6.0)! Check out the tutorial [here](https://github.com/open-mmlab/mmyolo/blob/main/docs/en/get_started/15_minutes_instance_segmentation.md) to master the essentials of instance segmentation.
@@ -39,23 +38,7 @@ My research interest mainly includes:
 
 
 # 📝 Publications
-Working in Progress: NeurIPS (2: Under Review);
 ## 📌 Pinned
-<div class='paper-box-top'><div class='paper-box-top-image'><div><div class="badge">ArXiv Preprint</div><img src='resources/emcobench.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-top-text' markdown="1">
-
-[EmCoBench: An Extensive Benchmark for General Emotion Comprehension](../resources/emcobench_paper.pdf)
-
-**Yuxiang Lin**, Jue Wang, Haomin Liang, Zebang Cheng, Jun-Yan He, Zhi-Qi Cheng, Xiaojiang Peng, Alexander G. Hauptmann
-
-**<font color=red>ArXiv</font>** \| [[Paper]](../resources/emcobench_paper.pdf) [[Code]](https://github.com/Lum1104/EmCoBench)
-- We proposing the Emotion Comprehension task, which focuses on identifying emotional triggers rather than merely classifying emotions, crucial for building more empathetic systems;
-- We introducing the Coarse-to-Fine Self-Ask (CFSA) method, a novel VLLM-assisted data annotation technique;
-- We developing the EmCoBench dataset, which includes 78 fine-grained emotions and 1,655 emotion comprehension samples, with 50 multifacets complex samples;
-
-</div>
-</div>
-
 ---
 
 <div class='paper-box-top'><div class='paper-box-top-image'><div><div class="badge">CVIU</div><img src='resources/gas.png' alt="sym" width="100%"></div></div>
