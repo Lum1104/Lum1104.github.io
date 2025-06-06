@@ -26,9 +26,10 @@ You can find me at [yuxiang.lin@gatech.edu](yuxiang.lin@gatech.edu) or [lin.yuxi
 My research interest mainly includes:
 - **Foundation model**: Representation Learning, Post-Pretraining, Contrastive Learning.
 - **Multi-modal LLM**: LLM Reasoning, LLM Application.
-- **AI4Science**: LLM with Medical Analysis.
+- **LLM Agent**: Multi-Agent Collabroation.
 
 # 🔥 News
+- *2024.12*: One paper about Multimodal Large Language Model in Emotion Reasoning is accepted by NeurIPS (CCF rank A).
 - *2024.07*: One co-first author paper about invisible gas detection is accepted by CVIU (JCR Q1, CCF rank B). 🎉
 - *2024.03*: One paper about Conversational Emotion-Cause Pair Analysis with LLM is accepted by SemEval 2024, NAACL.
 - *2024.01*: I was awarded the First Prize of Research and Innovation Award (3000 CNY) and Star of Craftsmanship (3000 CNY).
@@ -39,38 +40,46 @@ My research interest mainly includes:
 
 # 📝 Publications
 ## 📌 Pinned
+
+<div class='paper-box-top'><div class='paper-box-top-image'><div><div class="badge">ArXiv</div><img src='resources/emcobench.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-top-text' markdown="1">
+[Why We Feel: Breaking Boundaries in Emotional Reasoning with Multimodal Large Language Models](https://arxiv.org/pdf/2504.07521)
+
+**Yuxiang Lin**, Jingdong Sun, Zhi-Qi Cheng, Jue Wang, Haomin Liang, Zebang Cheng, Yifei Dong, Jun-Yan He, Xiaojiang Peng, Xian-Sheng Hua
+
+**<font color=red>ArXiv</font>** \| [[Paper]](https://arxiv.org/pdf/2504.07521) [[Slides]](https://docs.google.com/presentation/d/1t0vfMQkF5ahzSZcadqzNOy4meWCmLTEM/edit?usp=sharing&ouid=108867922689076134557&rtpof=true&sd=true) [[Code]](https://github.com/Lum1104/EIBench)
+</div>
+</div>
+---
+<div class='paper-box-top'><div class='paper-box-top-image'><div><div class="badge">NeurIPS 2024</div><img src='https://github.com/ZebangCheng/Emotion-LLaMA/blob/main/images/framework.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-top-text' markdown="1">
+[Emotion-llama: Multimodal emotion recognition and reasoning with instruction tuning)
+
+Zebang Cheng, Zhi-Qi Cheng, Jun-Yan He, Kai Wang, **Yuxiang Lin**, Zheng Lian, Xiaojiang Peng, Alexander Hauptmann
+
+**<font color=red>NeurIPS (CCF-A)</font>** \| [[Paper]](https://proceedings.neurips.cc/paper_files/paper/2024/file/c7f43ada17acc234f568dc66da527418-Paper-Conference.pdf) [[Code]](https://github.com/ZebangCheng/Emotion-LLaMA)
+</div>
+</div>
 ---
 
 <div class='paper-box-top'><div class='paper-box-top-image'><div><div class="badge">CVIU</div><img src='resources/gas.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-top-text' markdown="1">
-
 [Invisible Gas Detection: An RGB-Thermal Cross Attention Network and A New Benchmark](https://www.sciencedirect.com/science/article/pii/S1077314224001802)
-
 
 Jue Wang\*, **Yuxiang Lin\***, Qi Zhao, Dong Luo, Shuaibao Chen, Wei Chen, Xiaojiang Peng (\* denotes equal contribution)
 
 **<font color=red>CVIU (JCR Q1, CCF-B)</font>** \| [[Paper]](https://www.sciencedirect.com/science/article/pii/S1077314224001802) [[Code]](https://github.com/logic112358/RT-CAN)
-- We design the RGB-Thermal Cross Attention Network for invisible gas detection, by effectively integrating texture information from RGB images and gas information from thermal images.
-- We propose the RGB-assisted Cross Attention Module and the Global Textual Attention Module for cross modality feature fusion and diverse contextual information extraction.
-- We introduce Gas-DB, the first comprehensive open-source gas detection database, including approximately 1.3K well-annotated RGB-thermal images for gas detection algorithms.
-
 </div>
 </div>
 
 ---
-
 <div class='paper-box-top'><div class='paper-box-top-image'><div><div class="badge">ACMMM 2023</div><img src='images/grand_challenge.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-top-text' markdown="1">
-
 [Semi-Supervised Multimodal Emotion Recognition with Expression MAE](../resources/acmmm_grand_challenge.pdf)
 
 Zebang Cheng, **Yuxiang Lin**, Zhaoru Chen, Xiang Li, Shuyi Mao, Fan Zhang, Daijun Ding, Bowen Zhang, Xiaojiang Peng
 
 **<font color=red>ACMMM 2023 (CCF-A)</font>** \| [[Paper]](../resources/acmmm_grand_challenge.pdf) [[Slides]](../resources/ExpMAE.pdf)
-- We propose expMAE (combined with MAE and VideoMAE) to build an impressive emotion recognition classifier.
-- We utilize multi-modal foundation model such as CLIP, MacBERT, and HuBERT to boost the ability of visual features from expMAE.
-- We use the semi-supervised method of pseudo-labeling to solve the skewed distribution of the training set and finally achieve rank 2th among all the participants.
-
 </div>
 </div>
 
