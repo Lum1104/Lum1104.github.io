@@ -51,9 +51,9 @@ My research interest mainly includes:
 </div>
 </div>
 ---
-<div class='paper-box-top'><div class='paper-box-top-image'><div><div class="badge">NeurIPS 2024</div><img src='https://github.com/ZebangCheng/Emotion-LLaMA/blob/main/images/framework.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-top'><div class='paper-box-top-image'><div><div class="badge">NeurIPS 2024</div><img src='resource/emotionllama_framework.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-top-text' markdown="1">
-[Emotion-llama: Multimodal emotion recognition and reasoning with instruction tuning)
+[Emotion-llama: Multimodal emotion recognition and reasoning with instruction tuning](https://proceedings.neurips.cc/paper_files/paper/2024/file/c7f43ada17acc234f568dc66da527418-Paper-Conference.pdf)
 
 Zebang Cheng, Zhi-Qi Cheng, Jun-Yan He, Kai Wang, **Yuxiang Lin**, Zheng Lian, Xiaojiang Peng, Alexander Hauptmann
 
