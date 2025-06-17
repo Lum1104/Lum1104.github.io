@@ -29,6 +29,7 @@ My research interest mainly includes:
 - **LLM Agent**: Multi-Agent Collabroation.
 
 # 🔥 News
+- *2025.06*: **Try [Multi-Agent Idea Brainstorming System](https://lum1104.github.io/agent-brainstorm/) for Research / Project brainstorming.**
 - *2024.12*: One paper about Multimodal Large Language Model in Emotion Reasoning is accepted by NeurIPS (CCF rank A).
 - *2024.07*: One co-first author paper about invisible gas detection is accepted by CVIU (JCR Q1, CCF rank B). 🎉
 - *2024.03*: One paper about Conversational Emotion-Cause Pair Analysis with LLM is accepted by SemEval 2024, NAACL.
