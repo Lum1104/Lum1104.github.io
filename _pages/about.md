@@ -29,6 +29,7 @@ My research interest mainly includes:
 - **LLM Agent**: Multi-Agent Collabroation.
 
 # 🔥 News
+- *2025.07*: **<font color=red>Try <a href="https://github.com/Lum1104/MER-Dataset-Builder" target="_blank">MER-Dataset-Builder</a> for automatic construct multimodal emotion recognition and reasoning dataset.</font>**
 - *2025.06*: **<font color=red>Try <a href="https://lum1104.github.io/agent-brainstorm/" target="_blank">Multi-Agent Idea Brainstorming System</a> for Research / Project brainstorming.</font>**
 - *2024.12*: One paper about Multimodal Large Language Model in Emotion Reasoning is accepted by NeurIPS (CCF rank A).
 - *2024.07*: One co-first author paper about invisible gas detection is accepted by CVIU (JCR Q1, CCF rank B). 🎉
@@ -58,7 +59,7 @@ My research interest mainly includes:
 
 Zebang Cheng, Zhi-Qi Cheng, Jun-Yan He, Kai Wang, **Yuxiang Lin**, Zheng Lian, Xiaojiang Peng, Alexander Hauptmann
 
-**<font color=red>NeurIPS (CCF-A)</font>** \| [[Paper]](https://proceedings.neurips.cc/paper_files/paper/2024/file/c7f43ada17acc234f568dc66da527418-Paper-Conference.pdf) [[Code]](https://github.com/ZebangCheng/Emotion-LLaMA)
+**<font color=red>NeurIPS (CCF-A)</font>** \| [[Paper]](https://proceedings.neurips.cc/paper_files/paper/2024/file/c7f43ada17acc234f568dc66da527418-Paper-Conference.pdf) [[Code]](https://github.com/ZebangCheng/Emotion-LLaMA) [[MER-Dataset-Builder]](https://github.com/Lum1104/MER-Dataset-Builder)
 </div>
 </div>
 ---
