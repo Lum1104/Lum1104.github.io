@@ -17,20 +17,20 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-My name is Yuxiang Lin, pronounced as "You-shee-ahng Lin". I am an MS student at [Georgia Institute of Technology](https://www.gatech.edu/) <img src='images/gt_logo.jpeg' style='width: 1.1em;'>. I earned my B.S. degree from [Shenzhen Technology University](https://english.sztu.edu.cn/) <img src='images/logo_SZTU.png' style='width: 1.1em;'> under supervision from Prof. [Xiaojiang Peng](https://scholar.google.com/citations?user=7oRD67kAAAAJ&hl=en&oi=ao). In 2023, I was a visiting student at the [Shenzhen Institute of Advanced Technology (SIAT), CAS](https://english.siat.ac.cn/) <img src='images/logo_SIAT.webp' style='width: 1.1em;'> and a research intern with Prof. [Chen Chen](https://scholar.google.com/citations?user=TuEwcZ0AAAAJ&hl=en&oi=ao) at UCF <img src='images/ucf.png' style='width: 1.1em;'> remotely. In 2024, I interned at [Baidu Inc](https://www.baidu.com/) <img src='images/baidu.jpeg' style='width: 1.1em;'>  in the Group of Multimodal Retrieval, gaining experience in representation learning and big data. 
-
-Additionally, I volunteered as a Teaching Assistant for a Large Language Models/Computer Vision tutorial hosted by the [Shanghai AI Laboratory](https://github.com/InternLM/InternLM) <img src='images/ta.jpeg' style='width: 1.1em;'>.
-
-You can find me at [yuxiang.lin@gatech.edu](yuxiang.lin@gatech.edu) or [lin.yuxiang.contact@gmail.com](lin.yuxiang.contact@gmail.com).
+My name is Yuxiang Lin, pronounced as "You-shee-ahng Lin". I am an MS student at [Georgia Institute of Technology](https://www.gatech.edu/) <img src='images/gt_logo.jpeg' style='width: 1.1em;'>. I earned my B.S. degree from [Shenzhen Technology University](https://english.sztu.edu.cn/) <img src='images/logo_SZTU.png' style='width: 1.1em;'> under supervision from Prof. [Xiaojiang Peng](https://scholar.google.com/citations?user=7oRD67kAAAAJ&hl=en&oi=ao). In 2023, I was a visiting student at the [Shenzhen Institute of Advanced Technology (SIAT), CAS](https://english.siat.ac.cn/) <img src='images/logo_SIAT.webp' style='width: 1.1em;'>. In 2024, I interned at [Baidu Inc](https://www.baidu.com/) <img src='images/baidu.jpeg' style='width: 1.1em;'>  in the Group of Multimodal Retrieval, gaining experience in representation learning and big data. Additionally, I volunteered as a Teaching Assistant for a Large Language Models/Computer Vision tutorial hosted by the [Shanghai AI Laboratory](https://github.com/InternLM/InternLM) <img src='images/ta.jpeg' style='width: 1.1em;'>.
 
 My research interest mainly includes:
 - **Foundation model**: Representation Learning, Post-Pretraining, Contrastive Learning.
 - **Multi-modal LLM**: LLM Reasoning, LLM Application.
 - **LLM Agent**: Multi-Agent Collabroation.
 
+Currently, I am working on **<a href="https://github.com/Lum1104/MER-Factory" target="_blank">MER-Factory</a>** for automatically construction Multimodal Emotion Recognition and Reasoning dataset, feel free to open an issue on the github if you are insterested in some features that are not supported yet!
+
+You can find me at [yuxiang.lin@gatech.edu](yuxiang.lin@gatech.edu) or [lin.yuxiang.contact@gmail.com](lin.yuxiang.contact@gmail.com).
+
 # 🔥 News
-- *2025.07*: **<font color=red>Try <a href="https://github.com/Lum1104/MER-Dataset-Builder" target="_blank">MER-Dataset-Builder</a> for automatic construct multimodal emotion recognition and reasoning dataset.</font>**
-- *2025.06*: **<font color=red>Try <a href="https://lum1104.github.io/agent-brainstorm/" target="_blank">Multi-Agent Idea Brainstorming System</a> for Research / Project brainstorming.</font>**
+- *2025.07*: **<font color=red>Try <a href="https://github.com/Lum1104/MER-Factory" target="_blank">MER-Factory</a> for automatic construct multimodal emotion recognition and reasoning dataset.</font>**
+- *2025.06*: Try <a href="https://lum1104.github.io/agent-brainstorm/" target="_blank">Multi-Agent Idea Brainstorming System</a> for Research / Project brainstorming.
 - *2024.12*: One paper about Multimodal Large Language Model in Emotion Reasoning is accepted by NeurIPS (CCF rank A).
 - *2024.07*: One co-first author paper about invisible gas detection is accepted by CVIU (JCR Q1, CCF rank B). 🎉
 - *2024.03*: One paper about Conversational Emotion-Cause Pair Analysis with LLM is accepted by SemEval 2024, NAACL.
