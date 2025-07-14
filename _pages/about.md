@@ -26,19 +26,41 @@ My research interest mainly includes:
 
 Currently, I am working on **<a href="https://github.com/Lum1104/MER-Factory" target="_blank">MER-Factory</a>** for automatically construction Multimodal Emotion Recognition and Reasoning dataset, feel free to open an issue on the github if you are insterested in some features that are not supported yet!
 
+> 📢 I’m currently exploring **<font color=red> full-time roles and internships</font>** begining at around 2025/09. If my background matches your requirements or if you’d like to discuss potential opportunities, feel free to email me.
+
 You can find me at [yuxiang.lin@gatech.edu](yuxiang.lin@gatech.edu) or [lin.yuxiang.contact@gmail.com](lin.yuxiang.contact@gmail.com).
 
 # 🔥 News
 - *2025.07*: **<font color=red>Try <a href="https://github.com/Lum1104/MER-Factory" target="_blank">MER-Factory</a> for automatic construct multimodal emotion recognition and reasoning dataset.</font>**
-- *2025.06*: Try <a href="https://lum1104.github.io/agent-brainstorm/" target="_blank">Multi-Agent Idea Brainstorming System</a> for Research / Project brainstorming.
+- *2025.05*: Start my internship at Tencent.
 - *2024.12*: One paper about Multimodal Large Language Model in Emotion Reasoning is accepted by NeurIPS (CCF rank A).
 - *2024.07*: One co-first author paper about invisible gas detection is accepted by CVIU (JCR Q1, CCF rank B). 🎉
 - *2024.03*: One paper about Conversational Emotion-Cause Pair Analysis with LLM is accepted by SemEval 2024, NAACL.
+- *2024.01*: Start my internship at Baidu.
 - *2024.01*: I was awarded the First Prize of Research and Innovation Award (3000 CNY) and Star of Craftsmanship (3000 CNY).
 - *2023.08*: My instance segmentation tutorial has been featured in [MMYOLO v0.6.0 highlight](https://github.com/open-mmlab/mmyolo/releases/tag/v0.6.0)! Check out the tutorial [here](https://github.com/open-mmlab/mmyolo/blob/main/docs/en/get_started/15_minutes_instance_segmentation.md) to master the essentials of instance segmentation.
 - *2023.07*: One paper on multimodal emotion recognition is accepted by ACM MM! 🎉
 - *2023.07*: We are the runner up in the Grand Challenge ([MER 2023](http://merchallenge.cn/)) of ACM MM! 🥈
 
+# 👨‍💻 Project
+
+## MER-Factory
+
+[[Code]](https://github.com/Lum1104/MER-Factory) | [[Documentation]](https://lum1104.github.io/MER-Factory/)
+
+The first framework for automatically constructing Multimodal Emotion Recognition and Reasoning (MERR) datasets. (To the best of my knowledge)
+
+-   **Action Unit (AU) Pipeline**: Extracts facial Action Units (AUs) and translates them into descriptive natural language.
+-   **Audio Analysis Pipeline**: Extracts audio, transcribes speech, and performs detailed tonal analysis.
+-   **Video Analysis Pipeline**: Generates comprehensive descriptions of video content and context.
+-   **Image Analysis Pipeline**: Provides end-to-end emotion recognition for static images, complete with visual descriptions and emotional synthesis.
+-   **Full MER Pipeline**: An end-to-end multimodal pipeline that identifies peak emotional moments, analyzes all modalities (visual, audio, facial), and synthesizes a holistic emotional reasoning summary.
+
+## Agent-brainstorm
+
+[[Code]](https://github.com/Lum1104/agent-brainstorm) [[Demo]](https://lum1104.github.io/agent-brainstorm/)
+
+This system implements a 5-stage brainstorming methodology using multi-AI agents to generate, evaluate, and refine ideas for both project development and research papers. The entire process runs locally with real-time web search integration and ArXiv research capabilities.
 
 # 📝 Publications
 ## 📌 Pinned
