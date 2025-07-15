@@ -26,7 +26,7 @@ My research interest mainly includes:
 
 Currently, I am working on **<a href="https://github.com/Lum1104/MER-Factory" target="_blank">MER-Factory</a>** for automatically construction Multimodal Emotion Recognition and Reasoning dataset, feel free to open an issue on the github if you are insterested in some features that are not supported yet!
 
-> 📢 I’m currently exploring **<font color=red> full-time roles and internships</font>** begining at around 2025/09. If my background matches your requirements or if you’d like to discuss potential opportunities, feel free to email me.
+<!-- > 📢 I’m currently exploring **<font color=red> full-time roles and internships</font>** begining at around 2025/09. If my background matches your requirements or if you’d like to discuss potential opportunities, feel free to email me. -->
 
 You can find me at [yuxiang.lin@gatech.edu](yuxiang.lin@gatech.edu) or [lin.yuxiang.contact@gmail.com](lin.yuxiang.contact@gmail.com).
 
@@ -46,7 +46,7 @@ You can find me at [yuxiang.lin@gatech.edu](yuxiang.lin@gatech.edu) or [lin.yuxi
 
 ## MER-Factory
 
-[[Code]](https://github.com/Lum1104/MER-Factory) | [[Documentation]](https://lum1104.github.io/MER-Factory/)
+[[Code]](https://github.com/Lum1104/MER-Factory) \| [[Documentation]](https://lum1104.github.io/MER-Factory/)
 
 The first framework for automatically constructing Multimodal Emotion Recognition and Reasoning (MERR) datasets. (To the best of my knowledge)
 
@@ -58,7 +58,7 @@ The first framework for automatically constructing Multimodal Emotion Recognitio
 
 ## Agent-brainstorm
 
-[[Code]](https://github.com/Lum1104/agent-brainstorm) [[Demo]](https://lum1104.github.io/agent-brainstorm/)
+[[Code]](https://github.com/Lum1104/agent-brainstorm) \| [[Demo]](https://lum1104.github.io/agent-brainstorm/)
 
 This system implements a 5-stage brainstorming methodology using multi-AI agents to generate, evaluate, and refine ideas for both project development and research papers. The entire process runs locally with real-time web search integration and ArXiv research capabilities.
 
@@ -108,6 +108,7 @@ Zebang Cheng, **Yuxiang Lin**, Zhaoru Chen, Xiang Li, Shuyi Mao, Fan Zhang, Daij
 </div>
 
 # 👨‍💻 Experience
+- *2025.05 - present* &ensp; Summer Intern, [Tencent](https://www.tencent.com/en-us/about.html)
 - *2022.10 - 2024.06* &ensp; Student Research Fellow, [MIPS-Lab](https://pengxj.github.io/)
 - *2024.01 - 2024.04* &ensp; Research Intern, [Baidu Inc](https://www.baidu.com/)
 - *2024.01 - 2024.01* &ensp; Teaching Assistant, [InternLM](https://github.com/InternLM/tutorial/tree/main)
