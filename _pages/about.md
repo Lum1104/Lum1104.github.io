@@ -42,7 +42,7 @@ You can find me at [yuxiang.lin@gatech.edu](yuxiang.lin@gatech.edu) or [lin.yuxi
 - *2023.07*: One paper on multimodal emotion recognition is accepted by ACM MM! 🎉
 - *2023.07*: We are the runner up in the Grand Challenge ([MER 2023](http://merchallenge.cn/)) of ACM MM! 🥈
 
-# 👨‍💻 Project
+# 👨‍💻 LLM-Agent Project
 
 ## MER-Factory
 
@@ -81,7 +81,7 @@ This system implements a 5-stage brainstorming methodology using multi-AI agents
 
 Zebang Cheng, Zhi-Qi Cheng, Jun-Yan He, Kai Wang, **Yuxiang Lin**, Zheng Lian, Xiaojiang Peng, Alexander Hauptmann
 
-**<font color=red>NeurIPS (CCF-A)</font>** \| [[Paper]](https://proceedings.neurips.cc/paper_files/paper/2024/file/c7f43ada17acc234f568dc66da527418-Paper-Conference.pdf) [[Code]](https://github.com/ZebangCheng/Emotion-LLaMA) [[MER-Dataset-Builder]](https://github.com/Lum1104/MER-Dataset-Builder)
+**<font color=red>NeurIPS (CCF-A)</font>** \| [[Paper]](https://proceedings.neurips.cc/paper_files/paper/2024/file/c7f43ada17acc234f568dc66da527418-Paper-Conference.pdf) [[Code]](https://github.com/ZebangCheng/Emotion-LLaMA) [[MER-Factory]](https://github.com/Lum1104/MER-Factory)
 </div>
 </div>
 ---
