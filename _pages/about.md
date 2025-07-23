@@ -79,7 +79,7 @@ This system implements a 5-stage brainstorming methodology using multi-AI agents
 <div class='paper-box-top-text' markdown="1">
 [Emotion-llama: Multimodal emotion recognition and reasoning with instruction tuning](https://proceedings.neurips.cc/paper_files/paper/2024/file/c7f43ada17acc234f568dc66da527418-Paper-Conference.pdf)
 
-Zebang Cheng, Zhi-Qi Cheng, Jun-Yan He, Kai Wang, **Yuxiang Lin**, Zheng Lian, Xiaojiang Peng, Alexander Hauptmann
+Zebang Cheng, Zhi-Qi Cheng, Jun-Yan He, Kai Wang, **Yuxiang Lin**, Zheng Lian, Xiaojiang Peng, Alexander Hauptmann **($2^{nd}$ student author)**
 
 **<font color=red>NeurIPS (CCF-A)</font>** \| [[Paper]](https://proceedings.neurips.cc/paper_files/paper/2024/file/c7f43ada17acc234f568dc66da527418-Paper-Conference.pdf) [[Code]](https://github.com/ZebangCheng/Emotion-LLaMA) [![](https://img.shields.io/github/stars/ZebangCheng/Emotion-LLaMA?style=social)](https://github.com/ZebangCheng/Emotion-LLaMA) [[MER-Factory]](https://github.com/Lum1104/MER-Factory) [![](https://img.shields.io/github/stars/Lum1104/MER-Factory?style=social)](https://github.com/Lum1104/MER-Factory)
 </div>
