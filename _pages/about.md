@@ -44,7 +44,7 @@ You can find me at [yuxiang.lin@gatech.edu](yuxiang.lin@gatech.edu) or [lin.yuxi
 
 # 👨‍💻 LLM-Agent Project
 
-## MER-Factory
+## MER-Factory [![](https://img.shields.io/github/stars/Lum1104/MER-Factory?style=social)](https://github.com/Lum1104/MER-Factory)
 
 [[Code]](https://github.com/Lum1104/MER-Factory) \| [[Documentation]](https://lum1104.github.io/MER-Factory/)
 
@@ -71,7 +71,7 @@ This system implements a 5-stage brainstorming methodology using multi-AI agents
 
 **Yuxiang Lin**, Jingdong Sun, Zhi-Qi Cheng, Jue Wang, Haomin Liang, Zebang Cheng, Yifei Dong, Jun-Yan He, Xiaojiang Peng, Xian-Sheng Hua
 
-**<font color=red>ArXiv</font>** \| [[Paper]](https://arxiv.org/pdf/2504.07521) [[Slides]](https://docs.google.com/presentation/d/1t0vfMQkF5ahzSZcadqzNOy4meWCmLTEM/edit?usp=sharing&ouid=108867922689076134557&rtpof=true&sd=true) [[Code]](https://github.com/Lum1104/EIBench)
+**<font color=red>ArXiv</font>** \| [[Paper]](https://arxiv.org/pdf/2504.07521) [[Slides]](https://docs.google.com/presentation/d/1t0vfMQkF5ahzSZcadqzNOy4meWCmLTEM/edit?usp=sharing&ouid=108867922689076134557&rtpof=true&sd=true) [[Code]](https://github.com/Lum1104/EIBench) [![](https://img.shields.io/github/stars/Lum1104/EIBench?style=social)](https://github.com/Lum1104/EIBench)
 </div>
 </div>
 ---
@@ -81,7 +81,7 @@ This system implements a 5-stage brainstorming methodology using multi-AI agents
 
 Zebang Cheng, Zhi-Qi Cheng, Jun-Yan He, Kai Wang, **Yuxiang Lin**, Zheng Lian, Xiaojiang Peng, Alexander Hauptmann
 
-**<font color=red>NeurIPS (CCF-A)</font>** \| [[Paper]](https://proceedings.neurips.cc/paper_files/paper/2024/file/c7f43ada17acc234f568dc66da527418-Paper-Conference.pdf) [[Code]](https://github.com/ZebangCheng/Emotion-LLaMA) [[MER-Factory]](https://github.com/Lum1104/MER-Factory)
+**<font color=red>NeurIPS (CCF-A)</font>** \| [[Paper]](https://proceedings.neurips.cc/paper_files/paper/2024/file/c7f43ada17acc234f568dc66da527418-Paper-Conference.pdf) [[Code]](https://github.com/ZebangCheng/Emotion-LLaMA) [![](https://img.shields.io/github/stars/ZebangCheng/Emotion-LLaMA?style=social)](https://github.com/ZebangCheng/Emotion-LLaMA) [[MER-Factory]](https://github.com/Lum1104/MER-Factory) [![](https://img.shields.io/github/stars/Lum1104/MER-Factory?style=social)](https://github.com/Lum1104/MER-Factory)
 </div>
 </div>
 ---
@@ -92,7 +92,7 @@ Zebang Cheng, Zhi-Qi Cheng, Jun-Yan He, Kai Wang, **Yuxiang Lin**, Zheng Lian, X
 
 Jue Wang\*, **Yuxiang Lin\***, Qi Zhao, Dong Luo, Shuaibao Chen, Wei Chen, Xiaojiang Peng (\* denotes equal contribution)
 
-**<font color=red>CVIU (JCR Q1, CCF-B)</font>** \| [[Paper]](https://www.sciencedirect.com/science/article/pii/S1077314224001802) [[Code]](https://github.com/logic112358/RT-CAN)
+**<font color=red>CVIU (JCR Q1, CCF-B)</font>** \| [[Paper]](https://www.sciencedirect.com/science/article/pii/S1077314224001802) [[Code]](https://github.com/logic112358/RT-CAN) [![](https://img.shields.io/github/stars/logic112358/RT-CAN?style=social)](https://github.com/logic112358/RT-CAN)
 </div>
 </div>
 
