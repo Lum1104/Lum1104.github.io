@@ -26,7 +26,7 @@ My research interest mainly includes:
 
 Currently, I am working on **<a href="https://github.com/Lum1104/MER-Factory" target="_blank">MER-Factory</a>** for automatically construction Multimodal Emotion Recognition and Reasoning dataset, feel free to open an issue on the github if you are insterested in some features that are not supported yet!
 
-> 📢 I’m looking for **<font color=red> full-time roles / internships</font>** remote or at Xiamen (厦门), joining at 2025/09-2025/10 and later. If my background matches your requirements or if you’d like to discuss potential opportunities, feel free to email me.
+> 📢 I’m looking for **<font color=red> full-time roles / internships</font>** remote or at Xiamen (厦门), joining at ~2025/09 and later. If my background matches your requirements or if you’d like to discuss potential opportunities, feel free to email me.
 
 You can find me at [yuxiang.lin@gatech.edu](yuxiang.lin@gatech.edu) or [lin.yuxiang.contact@gmail.com](lin.yuxiang.contact@gmail.com).
 
