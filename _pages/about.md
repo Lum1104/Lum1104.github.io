@@ -17,12 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-My name is Yuxiang Lin, pronounced as "You-shee-ahng Lin". I am an MS student at [Georgia Institute of Technology](https://www.gatech.edu/) <img src='images/gt_logo.jpeg' style='width: 1.1em;'>. I earned my B.S. degree from [Shenzhen Technology University](https://english.sztu.edu.cn/) <img src='images/logo_SZTU.png' style='width: 1.1em;'> under supervision from Prof. [Xiaojiang Peng](https://scholar.google.com/citations?user=7oRD67kAAAAJ&hl=en&oi=ao). In 2023, I was a visiting student at the [Shenzhen Institute of Advanced Technology (SIAT), CAS](https://english.siat.ac.cn/) <img src='images/logo_SIAT.webp' style='width: 1.1em;'>. In 2024, I interned at [Baidu Inc](https://www.baidu.com/) <img src='images/baidu.jpeg' style='width: 1.1em;'>  in the Group of Multimodal Retrieval, gaining experience in representation learning and big data. Additionally, I volunteered as a Teaching Assistant for a Large Language Models/Computer Vision tutorial hosted by the [Shanghai AI Laboratory](https://github.com/InternLM/InternLM) <img src='images/ta.jpeg' style='width: 1.1em;'>.
-
-My research interest mainly includes:
-- **Foundation model**: Representation Learning, Post-Pretraining, Contrastive Learning.
-- **Multi-modal LLM**: LLM Reasoning, LLM Application.
-- **LLM Agent**: Multi-Agent Collabroation.
+My name is Yuxiang Lin, pronounced as "You-shee-ahng Lin". I am an MS student at [Georgia Institute of Technology](https://www.gatech.edu/) <img src='images/gt_logo.jpeg' style='width: 1.1em;'>. I earned my B.S. degree under supervision from Prof. [Xiaojiang Peng](https://scholar.google.com/citations?user=7oRD67kAAAAJ&hl=en&oi=ao). In 2023, I was a visiting student at the [Shenzhen Institute of Advanced Technology (SIAT), CAS](https://english.siat.ac.cn/) <img src='images/logo_SIAT.webp' style='width: 1.1em;'>. In 2024, I interned at [Baidu Inc](https://www.baidu.com/) <img src='images/baidu.jpeg' style='width: 1.1em;'>  in the Group of Multimodal Retrieval, gaining experience in representation learning and big data. Additionally, I volunteered as a Teaching Assistant for a Large Language Models/Computer Vision tutorial hosted by the [Shanghai AI Laboratory](https://github.com/InternLM/InternLM) <img src='images/ta.jpeg' style='width: 1.1em;'>.
 
 Currently, I am working on **<a href="https://github.com/Lum1104/MER-Factory" target="_blank">MER-Factory</a>** for automatically construction Multimodal Emotion Recognition and Reasoning dataset, feel free to open an issue on the github if you are insterested in some features that are not supported yet!
 
@@ -56,7 +51,7 @@ The first framework for automatically constructing Multimodal Emotion Recognitio
 -   **Image Analysis Pipeline**: Provides end-to-end emotion recognition for static images, complete with visual descriptions and emotional synthesis.
 -   **Full MER Pipeline**: An end-to-end multimodal pipeline that identifies peak emotional moments, analyzes all modalities (visual, audio, facial), and synthesizes a holistic emotional reasoning summary.
 
-## Agent-brainstorm
+## Agent-brainstorm [![](https://img.shields.io/github/stars/Lum1104/agent-brainstorm?style=social)](https://github.com/Lum1104/agent-brainstorm)
 
 [[Code]](https://github.com/Lum1104/agent-brainstorm) \| [[Demo]](https://lum1104.github.io/agent-brainstorm/)
 
