@@ -27,6 +27,7 @@ You can find me at [yuxiang.lin@gatech.edu](yuxiang.lin@gatech.edu) or [lin.yuxi
 
 # 🔥 News
 - *2025.07*: **<font color=red>Try <a href="https://github.com/Lum1104/MER-Factory" target="_blank">MER-Factory</a> for automatic construct multimodal emotion recognition and reasoning dataset.</font>**
+- *2025.06*: One paper about Benchmarking VLLM's Emotion Interpretation ability is accepted by CVPR W, NeXD (1/3 Oral).
 - *2025.05*: Start my internship at Tencent.
 - *2024.12*: One paper about Multimodal Large Language Model in Emotion Reasoning is accepted by NeurIPS (CCF rank A).
 - *2024.07*: One co-first author paper about invisible gas detection is accepted by CVIU (JCR Q1, CCF rank B). 🎉
