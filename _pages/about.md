@@ -17,16 +17,17 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am an MS student at Georgia Institute of Technology <img src='images/gt_logo.jpeg' style='width: 1.1em;'>. My research interests center on Multimodal Large Language Models (MLLM) and Affective Computing. Previously, I gained industrial algorithm experience as an intern at Tencent and Baidu. Currently, I am focusing on building AI agents for automated data generation and reasoning.
+I am an AI Engineer @ [Item](https://www.item.com/) and [Unisco](https://www.unisco.com/).
+
+I hold a MS ECE degree from the Georgia Institute of Technology <img src='images/gt_logo.jpeg' style='width: 1.1em;'>, where my research interests centered on Multimodal Large Language Models (MLLM) and Affective Computing. Previously, I gained industrial algorithm experience as an intern at Tencent and Baidu.
 
 Currently, I am working on **<a href="https://github.com/Lum1104/MER-Factory" target="_blank">MER-Factory</a>** for automatically construction Multimodal Emotion Recognition and Reasoning dataset, feel free to open an issue on the github if you are insterested in some features that are not supported yet!
 
-> 📢 I’m looking for **<font color=red> full-time roles</font>**. Here is my [CV](resources/林钰翔.pdf). If my background matches your requirements or if you’d like to discuss potential opportunities, feel free to email me.
+<!-- > 📢 I’m looking for **<font color=red> full-time roles</font>**. Here is my [CV](resources/林钰翔.pdf). If my background matches your requirements or if you’d like to discuss potential opportunities, feel free to email me. -->
 
-You can find me at [yuxiang.lin@gatech.edu](yuxiang.lin@gatech.edu) or [lin.yuxiang.contact@gmail.com](lin.yuxiang.contact@gmail.com).
+You can find me at [lum.lin@item.com](lum.lin@item.com) or [lin.yuxiang.contact@gmail.com](lin.yuxiang.contact@gmail.com).
 
 # 🔥 News
-- *2025.09*: Start my internship at [Item](https://item.com/).
 - *2025.07*: Try <a href="https://github.com/Lum1104/MER-Factory" target="_blank">MER-Factory</a> for automatic construct multimodal emotion recognition and reasoning dataset.
 - *2025.06*: One paper about Benchmarking VLLM's Emotion Interpretation ability is accepted by CVPR W, NeXD (1/3 Oral).
 - *2025.05*: Start my internship at Tencent.
