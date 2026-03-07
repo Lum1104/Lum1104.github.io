@@ -23,6 +23,8 @@ $light-purple-color: color.adjust($purple-color, $lightness: 25%);
 $pink-color: #f92080 !default;
 $pink-color-light: #ffdddd !default;
 $yellow-color: #efcc00 !default;
+$amber-color: #c9a227 !default;
+$amber-color-light: #e9c46a !default;
 
 $grey-color: #828282 !default;
 $grey-color-light: color.adjust($grey-color, $lightness: 40%);
@@ -34,7 +36,7 @@ $black-color: #000000 !default;
 
 // Theme colors
 
-$code-bg-color-light: rgba($purple-color, 0.05);
+$code-bg-color-light: rgba($amber-color, 0.05);
 $code-bg-color-dark: #2c3237 !default;
 
 // Font awesome location
