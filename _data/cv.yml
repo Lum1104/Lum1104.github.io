@@ -36,6 +36,7 @@ cv:
       - company: Item & Unisco
         position: AI Engineer
         location: ""
+        url: https://www.unisco.com/
         start_date: 2025-09
         end_date: present
         summary: Working on Graph-based RAG Systems, Multi-agent Collaboration, and LLM applications.
@@ -43,6 +44,7 @@ cv:
       - company: Tencent
         position: Summer Intern
         location: ""
+        url: https://www.tencent.com/
         start_date: 2025-05
         end_date: 2025-08
         summary: Algorithm research and development.
@@ -66,6 +68,7 @@ cv:
       - company: University of Central Florida (UCF)
         position: Research Intern
         location: ""
+        url: https://www.crcv.ucf.edu/chenchen/
         start_date: 2023-10
         end_date: 2024-01
         summary: Remote research collaboration.
