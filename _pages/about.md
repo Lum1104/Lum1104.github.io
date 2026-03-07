@@ -36,5 +36,3 @@ My current interests include:
 <div style="margin-top: 1rem; padding: 0.8rem 1.2rem; border-left: 4px solid var(--global-theme-color); background: var(--global-theme-color-light, rgba(201, 162, 39, 0.08)); border-radius: 0 6px 6px 0;">
   <i class="fa-solid fa-handshake" style="color: var(--global-theme-color); margin-right: 0.4rem;"></i><strong style="color: var(--global-theme-color);">Open to opportunities!</strong> I am happy to discuss any collaboration or role — feel free to <a href="mailto:lin.yuxiang.contact@gmail.com"><strong>reach out</strong></a>.
 </div>
-
-{% include clustrmaps.liquid %}
