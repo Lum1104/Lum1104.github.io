@@ -11,7 +11,6 @@ profile:
   image: prof_pic.jpg
   image_circular: true
   more_info: >
-    <p>lum.lin@item.com</p>
     <p>lin.yuxiang.contact@gmail.com</p>
 selected_papers: true
 social: true
