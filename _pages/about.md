@@ -18,7 +18,7 @@ social: true
 announcements:
   enabled: true
   scrollable: true
-  limit: 5
+  limit:
 latest_posts:
   enabled: false
 ---
