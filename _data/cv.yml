@@ -15,7 +15,6 @@ cv:
   sections:
     Education:
       - institution: Georgia Institute of Technology
-        location: Atlanta, GA, USA
         url: https://www.gatech.edu/
         area: Electrical and Computer Engineering
         studyType: MS
