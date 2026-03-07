@@ -181,12 +181,12 @@ nav[data-toggle="toc"] {
   top: 5rem;
 
   .nav .nav > li > a {
-    font-size: 0.75rem;
+    font-size: 0.95rem;
   }
 
   .nav > li > a {
     color: var(--global-text-color);
-    font-size: 0.75rem;
+    font-size: 0.95rem;
 
     &:hover {
       color: var(--global-hover-color);
@@ -197,7 +197,8 @@ nav[data-toggle="toc"] {
   .nav-link.active {
     color: var(--global-theme-color);
     border-left-color: var(--global-theme-color);
-    font-size: 0.75rem;
+    font-size: 0.95rem;
+    font-weight: 600;
 
     &:hover {
       color: var(--global-hover-color);
