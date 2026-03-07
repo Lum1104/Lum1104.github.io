@@ -6,6 +6,14 @@ div.container-link-button {
   margin-right: 0.5rem;
 }
 
+.cv .card-title {
+  color: var(--global-theme-color);
+  font-size: 1.4rem;
+  border-bottom: 2px solid var(--global-theme-color);
+  padding-bottom: 0.4rem;
+  margin-bottom: 0.8rem;
+}
+
 table.table-cv {
   background-color: transparent !important;
 
@@ -176,9 +184,10 @@ ul.timeline li {
 span.badge-toc {
   color: var(--global-bg-color);
   background-color: var(--global-theme-color);
-  border-radius: 0.125rem;
-  padding: 0.125rem 0.5rem 0.125rem 0.5rem;
+  border-radius: 0.25rem;
+  padding: 0.25rem 0.75rem;
   font-weight: 700 !important;
+  font-size: 1rem;
   display: inline-block;
   inline-size: fit-content;
 }
