@@ -25,7 +25,7 @@ cv:
           - "Research focus: Multimodal Large Language Models, Affective Computing"
 
       - institution: Shenzhen Technology University (SZTU)
-        location: ""
+
         url: https://www.sztu.edu.cn/
         area: Computer Science
         studyType: BS
@@ -35,7 +35,7 @@ cv:
     Experience:
       - company: Item & Unisco
         position: AI Engineer
-        location: ""
+
         url: https://www.unisco.com/
         start_date: 2025-09
         end_date: present
@@ -43,7 +43,7 @@ cv:
 
       - company: Tencent
         position: Summer Intern
-        location: ""
+
         url: https://www.tencent.com/
         start_date: 2025-05
         end_date: 2025-08
@@ -51,7 +51,7 @@ cv:
 
       - company: MIPS-Lab
         position: Student Research Fellow
-        location: ""
+
         url: https://pengxj.github.io/
         start_date: 2022-10
         end_date: 2024-06
@@ -59,7 +59,7 @@ cv:
 
       - company: Baidu Inc
         position: Research Intern
-        location: ""
+
         url: https://www.baidu.com/
         start_date: 2024-01
         end_date: 2024-04
@@ -67,7 +67,7 @@ cv:
 
       - company: University of Central Florida (UCF)
         position: Research Intern
-        location: ""
+
         url: https://www.crcv.ucf.edu/chenchen/
         start_date: 2023-10
         end_date: 2024-01
@@ -75,14 +75,14 @@ cv:
 
       - company: OpenMMLab
         position: Teaching Assistant
-        location: ""
+
         url: https://github.com/open-mmlab/OpenMMLabCourse
         start_date: 2023-06
         end_date: 2023-07
 
       - company: Shenzhen Institute of Advanced Technology, CAS
         position: Visiting Student
-        location: ""
+
         url: https://english.siat.ac.cn/
         start_date: 2023-02
         end_date: 2023-07
