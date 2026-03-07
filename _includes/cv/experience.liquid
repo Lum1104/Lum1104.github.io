@@ -46,10 +46,8 @@
         {% endif %}
       </div>
 
-      {% capture location %}
-        {% if entry.location %}{{ entry.location | strip }}{% endif %}
-      {% endcapture %}
-      {% if location != '' %}
+      {% assign location = entry.location | default: "" | strip %}
+      {% if location != '' and location != '""' %}
         <p class="location mb-1">
           <i class="fa-solid fa-location-dot iconlocation"></i>
           {{ location }}
