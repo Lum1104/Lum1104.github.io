@@ -25,7 +25,7 @@ cv:
           - "Research focus: Multimodal Large Language Models, Affective Computing"
 
       - institution: Shenzhen Technology University (SZTU)
-        location: Shenzhen, China
+        location: ""
         url: https://www.sztu.edu.cn/
         area: Computer Science
         studyType: BS
@@ -51,7 +51,7 @@ cv:
 
       - company: MIPS-Lab
         position: Student Research Fellow
-        location: Shenzhen, China
+        location: ""
         url: https://pengxj.github.io/
         start_date: 2022-10
         end_date: 2024-06
@@ -82,7 +82,7 @@ cv:
 
       - company: Shenzhen Institute of Advanced Technology, CAS
         position: Visiting Student
-        location: Shenzhen, China
+        location: ""
         url: https://english.siat.ac.cn/
         start_date: 2023-02
         end_date: 2023-07
