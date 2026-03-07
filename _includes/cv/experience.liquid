@@ -29,16 +29,16 @@
       {% endif %}
 
       <div class="d-flex align-items-baseline flex-wrap mb-1">
-        {% if entry.url %}
+        {% if entry.url and company_name != '' %}
           <h6 class="title font-weight-bold mr-2 mb-0">
-            <a href="{{ entry.url }}">{{ position_title }}</a>
+            <a href="{{ entry.url }}">{{ company_name }}</a>
           </h6>
-        {% elsif position_title != '' %}
-          <h6 class="title font-weight-bold mr-2 mb-0">{{ position_title }}</h6>
+        {% elsif company_name != '' %}
+          <h6 class="title font-weight-bold mr-2 mb-0">{{ company_name }}</h6>
         {% endif %}
 
-        {% if company_name != '' %}
-          <span class="mr-2" style="font-size: 0.95rem">@ {{ company_name }}</span>
+        {% if position_title != '' %}
+          <span class="mr-2" style="font-size: 0.95rem">- {{ position_title }}</span>
         {% endif %}
 
         {% if date != '' %}
