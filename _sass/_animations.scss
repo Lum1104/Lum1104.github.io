@@ -176,35 +176,47 @@
 // ============================================================================
 
 .profile {
-  .profile-img-wrapper {
-    position: relative;
-    overflow: hidden;
-    border-radius: 50%;
-    display: inline-block;
-  }
-
   // Amber glow on load (2 cycles)
   img.anim-profile-glow {
     animation: profileGlow 2s ease-in-out 0.5s 2;
     border-radius: 50%;
   }
 
-  // Shine sweep on hover
-  .profile-img-wrapper::after {
-    content: "";
-    position: absolute;
-    top: -50%;
-    left: -50%;
-    width: 200%;
-    height: 200%;
-    background: linear-gradient(to right, transparent 0%, rgba(255, 255, 255, 0.3) 50%, transparent 100%);
-    transform: translateX(-100%) rotate(25deg);
-    transition: none;
-    pointer-events: none;
-  }
+  // Shine sweep + tilt on hover — targets the <figure> wrapping the <picture>
+  figure {
+    position: relative;
+    overflow: hidden;
+    border-radius: 50%;
+    display: inline-block;
+    perspective: 500px;
 
-  .profile-img-wrapper:hover::after {
-    animation: shineSweep 0.6s ease-in-out;
+    &::after {
+      content: "";
+      position: absolute;
+      top: -50%;
+      left: -50%;
+      width: 200%;
+      height: 200%;
+      background: linear-gradient(to right, transparent 0%, rgba(255, 255, 255, 0.3) 50%, transparent 100%);
+      transform: translateX(-100%) rotate(25deg);
+      transition: none;
+      pointer-events: none;
+      z-index: 1;
+    }
+
+    &:hover::after {
+      animation: shineSweep 0.6s ease-in-out;
+    }
+
+    // Subtle 3D tilt on hover
+    picture {
+      display: block;
+      transition: transform 0.4s ease;
+    }
+
+    &:hover picture {
+      transform: rotateY(8deg) scale(1.03);
+    }
   }
 }
 
@@ -276,6 +288,13 @@
     box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
   }
 
+  // Dark mode: use a lighter glow instead of dark shadow
+  [data-theme="dark"] & {
+    &:hover {
+      box-shadow: 0 4px 15px rgba(201, 162, 39, 0.15);
+    }
+  }
+
   // Button fill animation
   .links a.btn {
     position: relative;
@@ -337,7 +356,62 @@ article a:not(.btn):not(.news-title):not(.abstract):not(.bibtex):not(.award) {
 }
 
 // ============================================================================
-// 11. Reduced Motion - Accessibility
+// 11. Navbar Link Underline Animation
+// ============================================================================
+
+.navbar.navbar-light .navbar-nav .nav-item .nav-link {
+  position: relative;
+
+  &::after {
+    content: "";
+    position: absolute;
+    bottom: 0;
+    left: 50%;
+    width: 0;
+    height: 2px;
+    background-color: var(--global-theme-color);
+    transition:
+      width 0.3s ease,
+      left 0.3s ease;
+  }
+
+  &:hover::after {
+    width: 100%;
+    left: 0;
+  }
+}
+
+// Active nav item has a persistent underline
+.navbar.navbar-light .navbar-nav .nav-item.active > .nav-link::after {
+  width: 100%;
+  left: 0;
+}
+
+// ============================================================================
+// 12. Staggered Social Icons
+// ============================================================================
+
+.social .contact-icons a {
+  opacity: 0;
+  animation: iconBounceIn 0.5s ease-out forwards;
+
+  @for $i from 1 through 8 {
+    &:nth-child(#{$i}) {
+      animation-delay: #{0.1 * $i}s;
+    }
+  }
+}
+
+// ============================================================================
+// 13. Smooth Scroll
+// ============================================================================
+
+html {
+  scroll-behavior: smooth;
+}
+
+// ============================================================================
+// 14. Reduced Motion - Accessibility
 // ============================================================================
 
 @media (prefers-reduced-motion: reduce) {
@@ -366,7 +440,20 @@ article a:not(.btn):not(.news-title):not(.abstract):not(.bibtex):not(.award) {
     animation: none;
   }
 
-  .profile .profile-img-wrapper:hover::after {
+  .profile figure:hover::after {
     animation: none;
+  }
+
+  .profile figure:hover picture {
+    transform: none;
+  }
+
+  .social .contact-icons a {
+    animation: none;
+    opacity: 1;
+  }
+
+  html {
+    scroll-behavior: auto;
   }
 }
