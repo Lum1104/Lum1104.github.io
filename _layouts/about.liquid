@@ -42,7 +42,7 @@ layout: default
 
     <!-- News -->
     {% if page.announcements and page.announcements.enabled %}
-      <div class="scroll-reveal">
+      <div>
         <h2>
           <a href="{{ '/news/' | relative_url }}" style="color: inherit">news</a>
         </h2>
@@ -52,7 +52,7 @@ layout: default
 
     <!-- Latest posts -->
     {% if page.latest_posts and page.latest_posts.enabled %}
-      <div class="scroll-reveal">
+      <div>
         <h2>
           <a href="{{ '/blog/' | relative_url }}" style="color: inherit">latest posts</a>
         </h2>
@@ -62,7 +62,7 @@ layout: default
 
     <!-- Selected papers -->
     {% if page.selected_papers %}
-      <div class="scroll-reveal">
+      <div>
         <h2>
           <a href="{{ '/publications/' | relative_url }}" style="color: inherit">selected publications</a>
         </h2>
@@ -72,7 +72,7 @@ layout: default
 
     <!-- Social -->
     {% if page.social %}
-      <div class="social scroll-reveal">
+      <div class="social">
         <div class="contact-icons">{% social_links %}</div>
 
         <div class="contact-note">{{ site.contact_note }}</div>
