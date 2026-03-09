@@ -35,6 +35,11 @@ table {
   }
 }
 
+// Override Bootstrap's hardcoded .table color (#212529) for dark mode compatibility
+.table {
+  color: var(--global-text-color);
+}
+
 a,
 table.table a {
   color: var(--global-theme-color);
