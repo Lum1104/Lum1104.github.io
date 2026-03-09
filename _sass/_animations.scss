@@ -1,0 +1,372 @@
+/*******************************************************************************
+ * Animation styles: Page entrance, scroll reveal, hover effects (uiverse.io-inspired)
+ ******************************************************************************/
+
+// ============================================================================
+// 1. Keyframes
+// ============================================================================
+
+@keyframes fadeInUp {
+  from {
+    opacity: 0;
+    transform: translateY(30px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes fadeInScale {
+  from {
+    opacity: 0;
+    transform: scale(0.8);
+  }
+  to {
+    opacity: 1;
+    transform: scale(1);
+  }
+}
+
+@keyframes shimmer {
+  0% {
+    background-position: -200% center;
+  }
+  100% {
+    background-position: 200% center;
+  }
+}
+
+@keyframes borderPulse {
+  0%,
+  100% {
+    border-color: var(--global-theme-color);
+    box-shadow: 0 0 0 0 transparent;
+  }
+  50% {
+    border-color: var(--global-theme-color);
+    box-shadow: 0 0 8px 0 var(--global-theme-color);
+  }
+}
+
+@keyframes profileGlow {
+  0%,
+  100% {
+    box-shadow: 0 0 0 0 transparent;
+  }
+  50% {
+    box-shadow: 0 0 15px 2px var(--global-theme-color);
+  }
+}
+
+@keyframes shineSweep {
+  0% {
+    transform: translateX(-100%) rotate(25deg);
+  }
+  100% {
+    transform: translateX(100%) rotate(25deg);
+  }
+}
+
+@keyframes iconBounceIn {
+  0% {
+    opacity: 0;
+    transform: scale(0.3);
+  }
+  50% {
+    transform: scale(1.05);
+  }
+  70% {
+    transform: scale(0.95);
+  }
+  100% {
+    opacity: 1;
+    transform: scale(1);
+  }
+}
+
+// ============================================================================
+// 2. Page Load Entrance Animations
+// ============================================================================
+
+.anim-fade-up {
+  opacity: 0;
+  animation: fadeInUp 0.6s ease-out forwards;
+}
+
+.anim-fade-scale {
+  opacity: 0;
+  animation: fadeInScale 0.6s ease-out forwards;
+}
+
+.anim-bounce-in {
+  opacity: 0;
+  animation: iconBounceIn 0.6s ease-out forwards;
+}
+
+// Staggered delay classes
+.anim-delay-1 {
+  animation-delay: 0.1s;
+}
+.anim-delay-2 {
+  animation-delay: 0.15s;
+}
+.anim-delay-3 {
+  animation-delay: 0.3s;
+}
+.anim-delay-4 {
+  animation-delay: 0.4s;
+}
+.anim-delay-5 {
+  animation-delay: 0.55s;
+}
+.anim-delay-6 {
+  animation-delay: 0.7s;
+}
+.anim-delay-7 {
+  animation-delay: 0.85s;
+}
+
+// ============================================================================
+// 3. Scroll Reveal
+// ============================================================================
+
+.scroll-reveal {
+  opacity: 0;
+  transform: translateY(30px);
+  transition:
+    opacity 0.6s ease-out,
+    transform 0.6s ease-out;
+}
+
+.scroll-reveal.revealed {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+// ============================================================================
+// 4. Name/Title Gradient Shimmer
+// ============================================================================
+
+.anim-shimmer {
+  background: linear-gradient(
+    90deg,
+    var(--global-text-color) 0%,
+    var(--global-text-color) 40%,
+    var(--global-theme-color) 50%,
+    var(--global-text-color) 60%,
+    var(--global-text-color) 100%
+  );
+  background-size: 200% auto;
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  animation: shimmer 2.5s ease-in-out 0.3s 1 forwards;
+  background-position: -200% center;
+}
+
+// After shimmer completes, restore normal text color
+.anim-shimmer::after {
+  content: "";
+  display: block;
+}
+
+// ============================================================================
+// 5. Profile Photo Effects
+// ============================================================================
+
+.profile {
+  .profile-img-wrapper {
+    position: relative;
+    overflow: hidden;
+    border-radius: 50%;
+    display: inline-block;
+  }
+
+  // Amber glow on load (2 cycles)
+  img.anim-profile-glow {
+    animation: profileGlow 2s ease-in-out 0.5s 2;
+    border-radius: 50%;
+  }
+
+  // Shine sweep on hover
+  .profile-img-wrapper::after {
+    content: "";
+    position: absolute;
+    top: -50%;
+    left: -50%;
+    width: 200%;
+    height: 200%;
+    background: linear-gradient(to right, transparent 0%, rgba(255, 255, 255, 0.3) 50%, transparent 100%);
+    transform: translateX(-100%) rotate(25deg);
+    transition: none;
+    pointer-events: none;
+  }
+
+  .profile-img-wrapper:hover::after {
+    animation: shineSweep 0.6s ease-in-out;
+  }
+}
+
+// ============================================================================
+// 6. Social Icons - Glow + Lift
+// ============================================================================
+
+.social .contact-icons a {
+  display: inline-block;
+  transition:
+    transform 0.3s ease,
+    filter 0.3s ease;
+  border-radius: 50%;
+  position: relative;
+
+  &:hover {
+    transform: translateY(-5px) scale(1.1);
+    filter: drop-shadow(0 0 8px var(--global-theme-color));
+    text-decoration: none;
+  }
+}
+
+// ============================================================================
+// 7. "Open to Opportunities" Callout - Pulse Border
+// ============================================================================
+
+.anim-pulse-border {
+  animation: borderPulse 3s ease-in-out infinite;
+  transition:
+    transform 0.2s ease,
+    box-shadow 0.2s ease;
+
+  &:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 0 12px 0 var(--global-theme-color);
+  }
+}
+
+// ============================================================================
+// 8. News Rows - Slide Highlight
+// ============================================================================
+
+.news table tr {
+  position: relative;
+  transition:
+    background-color 0.2s ease,
+    border-left 0.2s ease;
+  border-left: 3px solid transparent;
+
+  &:hover {
+    background-color: rgba(var(--global-theme-color-rgb, 201, 162, 39), 0.06);
+    border-left-color: var(--global-theme-color);
+  }
+}
+
+// ============================================================================
+// 9. Publication Entries - Card Lift
+// ============================================================================
+
+.publications ol.bibliography > li {
+  transition:
+    transform 0.2s ease,
+    box-shadow 0.2s ease;
+  padding: 0.75rem;
+  border-radius: 6px;
+
+  &:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+  }
+
+  // Button fill animation
+  .links a.btn {
+    position: relative;
+    overflow: hidden;
+    z-index: 1;
+    transition:
+      color 0.3s ease,
+      border-color 0.3s ease;
+
+    &::before {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: -100%;
+      width: 100%;
+      height: 100%;
+      background-color: var(--global-theme-color);
+      transition: left 0.3s ease;
+      z-index: -1;
+    }
+
+    &:hover::before {
+      left: 0;
+    }
+
+    &:hover {
+      color: white;
+      border-color: var(--global-theme-color);
+    }
+  }
+}
+
+// ============================================================================
+// 10. Links - Underline Slide
+// ============================================================================
+
+article a:not(.btn):not(.news-title):not(.abstract):not(.bibtex):not(.award) {
+  position: relative;
+  text-decoration: none;
+
+  &::after {
+    content: "";
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 0;
+    height: 1px;
+    background-color: var(--global-theme-color);
+    transition: width 0.3s ease;
+  }
+
+  &:hover {
+    text-decoration: none;
+
+    &::after {
+      width: 100%;
+    }
+  }
+}
+
+// ============================================================================
+// 11. Reduced Motion - Accessibility
+// ============================================================================
+
+@media (prefers-reduced-motion: reduce) {
+  .anim-fade-up,
+  .anim-fade-scale,
+  .anim-bounce-in,
+  .anim-shimmer {
+    animation: none;
+    opacity: 1;
+    transform: none;
+    -webkit-text-fill-color: unset;
+    background: none;
+  }
+
+  .scroll-reveal {
+    opacity: 1;
+    transform: none;
+    transition: none;
+  }
+
+  .anim-pulse-border {
+    animation: none;
+  }
+
+  img.anim-profile-glow {
+    animation: none;
+  }
+
+  .profile .profile-img-wrapper:hover::after {
+    animation: none;
+  }
+}
