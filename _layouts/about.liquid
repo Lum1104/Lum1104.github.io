@@ -3,7 +3,7 @@ layout: default
 ---
 <div class="post">
   <header class="post-header">
-    <h1 class="post-title anim-fade-up anim-shimmer">
+    <h1 class="post-title anim-shimmer">
       {% if site.title == 'blank' %}
         <span class="font-weight-bold">{{ site.first_name }}</span> {{ site.middle_name }}
         {{ site.last_name }}
@@ -11,12 +11,12 @@ layout: default
         {{ site.title }}
       {% endif %}
     </h1>
-    <p class="desc anim-fade-up anim-delay-2">{{ page.subtitle }}</p>
+    <p class="desc">{{ page.subtitle }}</p>
   </header>
 
   <article>
     {% if page.profile %}
-      <div class="profile float-{% if page.profile.align == 'left' %}left{% else %}right{% endif %} anim-fade-scale anim-delay-3">
+      <div class="profile float-{% if page.profile.align == 'left' %}left{% else %}right{% endif %}">
         {% if page.profile.image %}
           {% assign profile_image_path = page.profile.image | prepend: 'assets/img/' %}
           {% if page.profile.image_circular %}
@@ -38,7 +38,7 @@ layout: default
       </div>
     {% endif %}
 
-    <div class="clearfix anim-fade-up anim-delay-4">{{ content }}</div>
+    <div class="clearfix">{{ content }}</div>
 
     <!-- News -->
     {% if page.announcements and page.announcements.enabled %}

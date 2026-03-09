@@ -41,6 +41,11 @@ body.sticky-bottom-footer {
   img {
     width: 100%;
   }
+
+  // Hide profile photo on small screens
+  @media (max-width: 575.98px) {
+    display: none;
+  }
 }
 
 // Content layout uses Bootstrap's grid system with responsive columns

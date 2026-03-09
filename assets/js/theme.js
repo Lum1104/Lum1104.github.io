@@ -13,19 +13,19 @@ let toggleThemeSetting = () => {
 };
 
 // Change the theme setting and apply the theme.
-let setThemeSetting = (themeSetting) => {
+let setThemeSetting = (themeSetting, skipTransition) => {
   localStorage.setItem("theme", themeSetting);
 
   document.documentElement.setAttribute("data-theme-setting", themeSetting);
 
-  applyTheme();
+  applyTheme(skipTransition);
 };
 
 // Apply the computed dark or light theme to the website.
-let applyTheme = () => {
+let applyTheme = (skipTransition) => {
   let theme = determineComputedTheme();
 
-  transTheme();
+  if (!skipTransition) transTheme();
   setHighlight(theme);
   setGiscusTheme(theme);
   setSearchTheme(theme);
@@ -294,7 +294,8 @@ let determineComputedTheme = () => {
 let initTheme = () => {
   let themeSetting = determineThemeSetting();
 
-  setThemeSetting(themeSetting);
+  // Skip transition on initial load to prevent ghost text flash
+  setThemeSetting(themeSetting, true);
 
   // Add event listener to the theme toggle button.
   document.addEventListener("DOMContentLoaded", function () {
