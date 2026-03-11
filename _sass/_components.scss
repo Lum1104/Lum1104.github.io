@@ -38,6 +38,15 @@ ul.task-list input[type="checkbox"] {
 
 .card {
   background-color: var(--global-card-bg-color);
+  border-radius: 6px;
+  box-shadow: 0 2px 12px rgba(44, 36, 22, 0.08);
+  border: 1px solid var(--global-divider-color);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+
+  &:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 4px 20px rgba(44, 36, 22, 0.12);
+  }
 
   .card-img {
     width: 100%;
@@ -49,7 +58,7 @@ ul.task-list input[type="checkbox"] {
   }
 
   .card-body {
-    padding: 1.25rem 1.25rem 1.25rem 1.25rem;
+    padding: 1.25rem;
   }
 }
 

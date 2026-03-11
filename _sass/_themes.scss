@@ -17,8 +17,8 @@
   --global-footer-text-color: #{v.$grey-color-light};
   --global-footer-link-color: #{v.$white-color};
   --global-distill-app-color: #{v.$grey-color};
-  --global-divider-color: rgba(0, 0, 0, 0.1);
-  --global-card-bg-color: #{v.$white-color};
+  --global-divider-color: rgba(44, 36, 22, 0.1);
+  --global-card-bg-color: #ffffff;
   --global-highlight-color: #{v.$red-color-dark};
   --global-back-to-top-bg-color: rgba(
     #{color.channel(v.$black-color, "red", v.$space: rgb)},
@@ -29,6 +29,7 @@
   --global-back-to-top-text-color: #{v.$white-color};
   --global-newsletter-bg-color: #{v.$white-color};
   --global-newsletter-text-color: #{v.$black-color};
+  --global-theme-color-rgb: 201, 162, 39;
 
   --global-tip-block: #42b983;
   --global-tip-block-bg: #e2f5ec;
@@ -72,6 +73,19 @@
     width: v.$back-to-top-width;
     z-index: v.$back-to-top-z-index;
   }
+
+  // Paper noise texture
+  body::before {
+    content: "";
+    position: fixed;
+    inset: 0;
+    z-index: 9999;
+    pointer-events: none;
+    opacity: 0.025;
+    background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 256 256' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='noise'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23noise)'/%3E%3C/svg%3E");
+    background-repeat: repeat;
+    background-size: 256px 256px;
+  }
 }
 
 html[data-theme="dark"] {
@@ -87,8 +101,8 @@ html[data-theme="dark"] {
   --global-footer-text-color: #{v.$grey-color-dark};
   --global-footer-link-color: #{v.$black-color};
   --global-distill-app-color: #{v.$grey-color-light};
-  --global-divider-color: #424246;
-  --global-card-bg-color: #{v.$grey-900};
+  --global-divider-color: rgba(232, 224, 212, 0.12);
+  --global-card-bg-color: #242018;
   --global-back-to-top-bg-color: rgba(
     #{color.channel(v.$white-color, "red", v.$space: rgb)},
     #{color.channel(v.$white-color, "green", v.$space: rgb)},
@@ -98,6 +112,7 @@ html[data-theme="dark"] {
   --global-back-to-top-text-color: #{v.$black-color};
   --global-newsletter-bg-color: #{v.$grey-color-light};
   --global-newsletter-text-color: #{v.$grey-color-dark};
+  --global-theme-color-rgb: 233, 196, 106;
 
   --global-tip-block: #42b983;
   --global-tip-block-bg: #215d42;
@@ -118,6 +133,10 @@ html[data-theme="dark"] {
 
   .only-dark {
     display: block;
+  }
+
+  body::before {
+    opacity: 0.03;
   }
 }
 
