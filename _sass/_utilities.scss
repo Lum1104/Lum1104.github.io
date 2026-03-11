@@ -505,86 +505,75 @@ figure.cover {
     vertical-align: bottom;
   }
 
-  figcaption.abandoned {
+  // Shared figcaption styles
+  figcaption {
     font-family: monospace;
-    color: #23212d;
     text-transform: uppercase;
+  }
+
+  figcaption.abandoned {
     background-color: #ee5f5b;
+    color: #2a0f0e;
   }
 
   figcaption.finished,
   figcaption.watched {
-    font-family: monospace;
-    color: #23212d;
-    text-transform: uppercase;
     background-color: #62c462;
+    color: #0e2a0e;
   }
 
   figcaption.interested {
-    font-family: monospace;
-    color: #23212d;
-    text-transform: uppercase;
     background-color: #7691db;
+    color: #0e1a2a;
   }
 
   figcaption.paused {
-    font-family: monospace;
-    color: #23212d;
-    text-transform: uppercase;
     background-color: #bdac7e;
+    color: #2a2416;
   }
 
   figcaption.queued {
-    font-family: monospace;
-    color: #23212d;
-    text-transform: uppercase;
     background-color: #9e76b5;
+    color: #1e0e2a;
   }
 
   figcaption.reading,
   figcaption.watching {
-    font-family: monospace;
-    color: #23212d;
-    text-transform: uppercase;
     background-color: #f89406;
+    color: #2a1c00;
   }
 
   figcaption.reread,
   figcaption.rewatch {
-    font-family: monospace;
-    color: #23212d;
-    text-transform: uppercase;
     background-color: #a6517d;
+    color: #2a0e1e;
   }
 
   figcaption.uncategorized {
-    font-family: monospace;
-    color: #23212d;
-    text-transform: uppercase;
     background-color: #b0abb3;
+    color: #1a1a1a;
   }
 
-  /* mouse over link */
   a.cover-link:hover {
-    color: #23212d !important;
+    color: var(--global-text-color) !important;
   }
 }
 
 // Calendar
 
 .calendar-toggle-btn {
-  background-color: #007acc;
-  color: white;
+  background-color: var(--global-theme-color);
+  color: var(--global-hover-text-color);
   padding: 0.5em 1em;
   border: none;
   border-radius: 6px;
   font-size: 1em;
   cursor: pointer;
-  transition: background-color 0.3s;
-}
+  transition: opacity 0.3s;
 
-.calendar-toggle-btn:hover {
-  background-color: #005fa3;
+  &:hover {
+    opacity: 0.85;
+  }
 }
 
 .google-calendar-embed {
