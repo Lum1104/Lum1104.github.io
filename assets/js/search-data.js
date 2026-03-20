@@ -66,6 +66,9 @@ ninja.data = [{
           section: "News",},{id: "news-started-my-career-as-an-ai-engineer-at-item-and-unisco-after-graduation",
           title: 'Started my career as an AI Engineer at Item and Unisco after graduation....',
           description: "",
+          section: "News",},{id: "news-understand-anything-reached-1-000-github-stars-in-just-5-days-after-launch-deeply-grateful-to-the-open-source-community-for-the-incredible-support",
+          title: 'Understand Anything reached 1,000 GitHub stars in just 5 days after launch. Deeply...',
+          description: "",
           section: "News",},{id: "projects-mer-factory",
           title: 'MER-Factory',
           description: "The first framework for automatically constructing Multimodal Emotion Recognition and Reasoning (MERR) datasets.",
@@ -76,6 +79,11 @@ ninja.data = [{
           description: "A 5-stage brainstorming system using multi-AI agents to generate, evaluate, and refine ideas with real-time web search and ArXiv research.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_agent_brainstorm/";
+            },},{id: "projects-understand-anything",
+          title: 'Understand Anything',
+          description: "An open-source tool combining LLM intelligence and static analysis to produce interactive knowledge graph dashboards for understanding any codebase.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/3_understand_anything/";
             },},{
         id: 'social-email',
         title: 'email',
