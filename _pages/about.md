@@ -3,8 +3,7 @@ layout: about
 title: about
 permalink: /
 subtitle: >
-  AI Engineer @ <a href="https://www.item.com/">Item</a> &
-  <a href="https://www.unisco.com/">Unisco</a>.
+  CTO @ stealth startup (will announce soon).
   MS ECE, Georgia Institute of Technology.
 profile:
   align: right
@@ -22,7 +21,7 @@ latest_posts:
   enabled: false
 ---
 
-I am an AI Engineer at **[Item](https://www.item.com/)** and **[Unisco](https://www.unisco.com/)**.
+I am the **CTO** of a stealth startup (will announce soon), where we build **AI tools that help people, not replace them**.
 
 I received my **MS ECE** degree from the **Georgia Institute of Technology**, where my research interests centered on **Multimodal Large Language Models (MLLM)** and **Affective Computing**. Previously, I gained industrial algorithm experience as an intern at **Tencent** and **Baidu**.
 
