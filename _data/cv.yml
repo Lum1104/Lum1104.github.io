@@ -1,10 +1,10 @@
 cv:
   name: Yuxiang Lin
-  label: AI Engineer
+  label: ""
   email: lin.yuxiang.contact@gmail.com
   location: ""
   image: ""
-  summary: AI Engineer at Item & Unisco. MS ECE from Georgia Institute of Technology. Research interests in Multimodal Learning, LLM Agents, and RAG Systems.
+  summary: MS ECE from Georgia Institute of Technology. Research interests in Multimodal Learning, LLM Agents, and RAG Systems.
 
   social_networks:
     - network: GitHub
@@ -37,7 +37,7 @@ cv:
 
         url: https://www.unisco.com/
         start_date: 2025-09
-        end_date: present
+        end_date: 2026-01
         summary: Working on Graph-based RAG Systems, Multi-agent Collaboration, and LLM applications.
 
       - company: Tencent
