@@ -1,0 +1,23 @@
+---
+layout: null
+permalink: /cv/
+title: CV
+nav: true
+nav_order: 4
+cv_pdf: /assets/pdf/Yuxiang_Lin_CV.pdf
+description: Yuxiang Lin's CV (PDF)
+---
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta http-equiv="refresh" content="0; url={{ page.cv_pdf | relative_url }}" />
+    <link rel="canonical" href="{{ page.cv_pdf | absolute_url }}" />
+    <title>{{ page.title }} | {{ site.first_name }} {{ site.last_name }}</title>
+  </head>
+  <body>
+    <p><a href="{{ page.cv_pdf | relative_url }}">View Yuxiang Lin's CV (PDF)</a></p>
+  </body>
+</html>
