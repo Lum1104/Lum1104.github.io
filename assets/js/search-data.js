@@ -25,7 +25,7 @@ ninja.data = [{
           },
         },{id: "nav-cv",
           title: "CV",
-          description: "Yuxiang Lin&#39;s CV - Education, Experience, Awards",
+          description: "Yuxiang Lin&#39;s CV (PDF)",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
