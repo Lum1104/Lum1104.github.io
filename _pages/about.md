@@ -20,14 +20,25 @@ latest_posts:
   enabled: false
 ---
 
+<div class="about-links">
+  <a class="btn about-cv-button" href="{{ '/assets/pdf/Yuxiang_Lin_CV.pdf' | relative_url }}">
+    <i class="fa-solid fa-file-pdf" aria-hidden="true"></i> View CV (PDF)
+  </a>
+  <a class="btn about-scholar-button" href="https://scholar.google.com/citations?user=b2HdAoMAAAAJ&amp;hl=en">
+    <i class="fa-brands fa-google-scholar" aria-hidden="true"></i> Google Scholar
+  </a>
+  <a class="btn about-github-button" href="https://github.com/Lum1104">
+    <i class="fa-brands fa-github" aria-hidden="true"></i> GitHub
+  </a>
+</div>
+
 I received my **M.S. in ECE** from the **Georgia Institute of Technology**. My research broadly explores **AI agents and autonomous systems**, with a particular interest in building agents that can operate, learn, and collaborate over extended periods of time. My previous research spans multimodal large language models and multimodal understanding, including work on emotion recognition and reasoning.
 
 My current research interests include:
 
-1. **General-Purpose & Long-Horizon AI Agents**
-2. **Persistent Memory, State, and Continual Adaptation**
-3. **Agent–Harness Co-evolution & Agentic Systems**
-4. **Multi-Agent Collaboration & Human–Agent Interaction**
+1. **Agent–Harness Co-evolution, RSI & Agentic Systems**
+2. **General-Purpose & Long-Horizon AI Agents**
+3. **Persistent Memory, State, and Continual Adaptation**
 
 I am also an **open-source builder**. I created **[Understand Anything](https://github.com/Lum1104/Understand-Anything)** <a href="https://github.com/Lum1104/Understand-Anything"><img src="https://img.shields.io/github/stars/Lum1104/Understand-Anything?style=social" alt="GitHub stars" style="vertical-align: middle; display: inline;"></a>, an open-source system for helping both humans and AI agents understand complex codebases through static analysis, knowledge graphs, and LLM-based reasoning.
 
